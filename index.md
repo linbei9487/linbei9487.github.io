@@ -10,11 +10,11 @@ filename: index
 
 ## AAS
 
-[Click here](https://linbei9487.github.io/AAS)
+[請點此處](https://linbei9487.github.io/AAS)
 
 ## V-backup
 
-[Click here](https://linbei9487.github.io/V-backup)
+[請點此處](https://linbei9487.github.io/V-backup)
 
 ## ?
 
