@@ -1,6 +1,6 @@
 ## 歡迎來到 Bradly0cjw 的黑魔法專區
 
-view on [bradly0cjw.github.io](https://bradly0cjw.github.io)
+參見個人[主頁](https://bradly0cjw.github.io)
 
 ## AAS
 
