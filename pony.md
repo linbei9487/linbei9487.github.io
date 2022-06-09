@@ -11,7 +11,8 @@ filename: pony
 
 ## S1E01 
 ![S1E20](https://static.wikia.nocookie.net/mlp/images/b/b5/Opening_Book_S01E01.png)
-好好記得這張他媽的圖
+![S1E20](https://static.wikia.nocookie.net/mlp/images/2/28/Pinkie_Pie_excited_S01E01.png)<br>
+好好記得這張他媽的圖(是Derpy阿)
 
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_2.html)
