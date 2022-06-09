@@ -1,6 +1,6 @@
 ---
 title: 即將進入小馬國
-layout: back
+layout: pony
 filename: pony
 --- 
 
