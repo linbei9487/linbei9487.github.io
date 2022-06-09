@@ -8,4 +8,4 @@ filename: pony
 
 # 本次集數
 ## S1E20 
-![S1E20](https://static.wikia.nocookie.net/mlp/images/9/9f/Fluttershy_happy_S1E20.png)
+[![S1E20](https://static.wikia.nocookie.net/mlp/images/9/9f/Fluttershy_happy_S1E20.png)](https://static.wikia.nocookie.net/mlp/images/9/9f/Fluttershy_happy_S1E20.png)
