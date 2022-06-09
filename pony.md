@@ -21,5 +21,6 @@ filename: pony
 <br>
 <br>
 <br>
+[link](https://linbei9487.github.io/pony)
 有時候手動刷新頁面也是種不錯的選擇<br>
 自動刷新大概有3~5分鐘的Delay
