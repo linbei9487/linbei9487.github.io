@@ -17,3 +17,4 @@ filename: pony
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_2.html)
 
+![test](https://static.wikia.nocookie.net/mlp/images/2/28/Pinkie_Pie_excited_S01E01.png/revision/latest/scale-to-width-down/1200)
