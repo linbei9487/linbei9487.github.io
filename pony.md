@@ -3,12 +3,12 @@ title: 進入小馬國
 layout: pony
 filename: pony
 --- 
-# S1E20 
-## Green Isn't Your Color
-![S1E20](https://static.wikia.nocookie.net/mlp/images/9/9f/Fluttershy_happy_S1E20.png)
-![](https://static.wikia.nocookie.net/mlp/images/b/b9/Twilight_after_poking_her_eye_S1E20.png)
-![](https://static.wikia.nocookie.net/mlp/images/4/42/Pinkie_Pie_eating_an_apple_S1E20.gif)
-![S1E20](https://static.wikia.nocookie.net/mlp/images/5/50/Ponies_don%27t_like_Fluttershy%27s_performance_S01E20.png)
+# S1E21 
+## Over a Barrel
+![](https://static.wikia.nocookie.net/mlp/images/5/54/Applejack_talks_to_the_tree_S1E21.png)
+![](https://static.wikia.nocookie.net/mlp/images/0/08/Rainbow_Dash_hits_a_sign_S01E21.png)
+![](https://static.wikia.nocookie.net/mlp/images/2/2f/Applejack_%22BRAEBURN%21%22_S01E21.png)
+![S1E20](https://static.wikia.nocookie.net/mlp/images/5/59/Pinkie_Pie_Breaking_Fourth_Wall_Looney_Tunes_S1E21.png)
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_21.html)
 
