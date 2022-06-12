@@ -10,7 +10,7 @@ filename: pony
 ![](https://static.wikia.nocookie.net/mlp/images/2/2f/Applejack_%22BRAEBURN%21%22_S01E21.png)
 ![S1E20](https://static.wikia.nocookie.net/mlp/images/5/59/Pinkie_Pie_Breaking_Fourth_Wall_Looney_Tunes_S1E21.png)
 ## 進入小馬國
-[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_21.html)
+[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_23.html)
 
 # S1E01 
 ## Friendship is Magic, part 1
