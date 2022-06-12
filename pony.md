@@ -5,12 +5,12 @@ filename: pony
 --- 
 # S1E21 
 ## Over a Barrel
-![](https://static.wikia.nocookie.net/mlp/images/5/54/Applejack_talks_to_the_tree_S1E21.png)
-![](https://static.wikia.nocookie.net/mlp/images/0/08/Rainbow_Dash_hits_a_sign_S01E21.png)
-![](https://static.wikia.nocookie.net/mlp/images/2/2f/Applejack_%22BRAEBURN%21%22_S01E21.png)
-![S1E20](https://static.wikia.nocookie.net/mlp/images/5/59/Pinkie_Pie_Breaking_Fourth_Wall_Looney_Tunes_S1E21.png)
+![](https://static.wikia.nocookie.net/mlp/images/7/7a/Fluttershy_cutness_overload_S01E22.png)
+![](https://static.wikia.nocookie.net/mlp/images/7/72/Rainbow_Dash_making_funny_face_S1E22.png)
+![](https://static.wikia.nocookie.net/mlp/images/8/88/Pinkie_Pie_puts_a_pie_to_her_face_S1E22.png)
+![](https://static.wikia.nocookie.net/mlp/images/4/47/Twilight_gasps_S01E22.png)
 ## 進入小馬國
-[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_23.html)
+[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_28.html)
 
 # S1E01 
 ## Friendship is Magic, part 1
