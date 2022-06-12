@@ -35,4 +35,5 @@ filename: ponyhistory
 [點我](https://linbei9487.github.io/pony/G4/S9)
 
 # Gen 5
+## Another Generation
 [點我](https://linbei9487.github.io/pony/G5/AnG)
