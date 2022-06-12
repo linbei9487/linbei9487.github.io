@@ -6,30 +6,33 @@ filename: ponyhistory
 # 即時集數
 [點我](https://linbei9487.github.io/pony)
 
-# Season 1
-[點我](https://linbei9487.github.io/pony/G4S1)
+# Gen 4
+## Season 1
+[點我](https://linbei9487.github.io/pony/G4/S1)
 
-# Season 2
-[點我](https://linbei9487.github.io/pony/G4S2)
+## Season 2
+[點我](https://linbei9487.github.io/pony/G4/S2)
 
-# Season 3
-[點我](https://linbei9487.github.io/pony/G4S3)
+## Season 3
+[點我](https://linbei9487.github.io/pony/G4/S3)
 
-# Season 4
-[點我](https://linbei9487.github.io/pony/G4S4)
+## Season 4
+[點我](https://linbei9487.github.io/pony/G4/S4)
 
-# Season 5
-[點我](https://linbei9487.github.io/pony/G4S5)
+## Season 5
+[點我](https://linbei9487.github.io/pony/G4/S5)
 
-# Season 6
-[點我](https://linbei9487.github.io/pony/G4S6)
+## Season 6
+[點我](https://linbei9487.github.io/pony/G4/S6)
 
-# Season 7
-[點我](https://linbei9487.github.io/pony/G4S7)
+## Season 7
+[點我](https://linbei9487.github.io/pony/G4/S7)
 
-# Season 8
-[點我](https://linbei9487.github.io/pony/G4S8)
+## Season 8
+[點我](https://linbei9487.github.io/pony/G4/S8)
 
-# Season 9
-[點我](https://linbei9487.github.io/pony/G4S9)
+## Season 9
+[點我](https://linbei9487.github.io/pony/G4/S9)
 
+# Gen 5
+[點我](https://linbei9487.github.io/pony/G5/AnG)
