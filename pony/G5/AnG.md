@@ -1,5 +1,5 @@
 ---
-title: Sunny's Journal Season 1
+title: Sunny's Journal Another Generation
 layout: backpony
 filename: ponyG5AnG
 --- 
