@@ -37,7 +37,7 @@ filename: pony
 ![](https://static.wikia.nocookie.net/mlp/images/3/3d/Manticore_licking_Fluttershy%27s_mane_S1E02.png)
 ![](https://static.wikia.nocookie.net/mlp/images/b/bd/Twilight_curled_up_Elements_of_Harmony_S1E02.png)
 ![](https://static.wikia.nocookie.net/mlp/images/e/e9/Pinkie_Pie_a_party_S01E02.png)<br>
-好好記得這張他媽的圖(是Derpy阿)
+
 
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_6.html)
