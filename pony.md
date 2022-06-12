@@ -30,6 +30,8 @@ filename: pony
 ![](https://static.wikia.nocookie.net/mlp/images/3/32/Twilight_hot2_S01E01.png)
 ![](https://static.wikia.nocookie.net/mlp/images/2/28/Pinkie_Pie_excited_S01E01.png)<br>
 好好記得這張他媽的圖(是Derpy阿)
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_2.html)
 
 # S1E02 
 ## Friendship is Magic, part 2
@@ -37,12 +39,11 @@ filename: pony
 ![](https://static.wikia.nocookie.net/mlp/images/3/3d/Manticore_licking_Fluttershy%27s_mane_S1E02.png)
 ![](https://static.wikia.nocookie.net/mlp/images/b/bd/Twilight_curled_up_Elements_of_Harmony_S1E02.png)
 ![](https://static.wikia.nocookie.net/mlp/images/e/e9/Pinkie_Pie_a_party_S01E02.png)<br>
-
-
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_6.html)
 <br>
 <br>
 <br>
 
-
+# 找不到集數?
+[點我看歷史集數](https:/linbei9487.github.io/ponyhistory)

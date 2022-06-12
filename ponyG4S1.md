@@ -1,0 +1,61 @@
+---
+title: Twilight's Library Season 1
+layout: back
+filename: ponyG4S1
+--- 
+# S1E01 
+## Friendship is Magic, part 1
+![](https://static.wikia.nocookie.net/mlp/images/b/b5/Opening_Book_S01E01.png)
+![](https://static.wikia.nocookie.net/mlp/images/7/7f/Twilight_hot1_S01E01.png)
+![](https://static.wikia.nocookie.net/mlp/images/3/32/Twilight_hot2_S01E01.png)
+![](https://static.wikia.nocookie.net/mlp/images/2/28/Pinkie_Pie_excited_S01E01.png)<br>
+好好記得這張他媽的圖(是Derpy阿)
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_2.html)
+
+# S1E02 
+## Friendship is Magic, part 2
+![](https://static.wikia.nocookie.net/mlp/images/6/65/Twilight_screams_while_freefalling_S1E02.png)
+![](https://static.wikia.nocookie.net/mlp/images/3/3d/Manticore_licking_Fluttershy%27s_mane_S1E02.png)
+![](https://static.wikia.nocookie.net/mlp/images/b/bd/Twilight_curled_up_Elements_of_Harmony_S1E02.png)
+![](https://static.wikia.nocookie.net/mlp/images/e/e9/Pinkie_Pie_a_party_S01E02.png)<br>
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_6.html)
+
+# S1E20 
+## Green Isn't Your Color
+![S1E20](https://static.wikia.nocookie.net/mlp/images/9/9f/Fluttershy_happy_S1E20.png)
+![](https://static.wikia.nocookie.net/mlp/images/b/b9/Twilight_after_poking_her_eye_S1E20.png)
+![](https://static.wikia.nocookie.net/mlp/images/4/42/Pinkie_Pie_eating_an_apple_S1E20.gif)
+![S1E20](https://static.wikia.nocookie.net/mlp/images/5/50/Ponies_don%27t_like_Fluttershy%27s_performance_S01E20.png)
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_21.html)
+
+# S1E21 
+## Over a Barrel
+![](https://static.wikia.nocookie.net/mlp/images/5/54/Applejack_talks_to_the_tree_S1E21.png)
+![](https://static.wikia.nocookie.net/mlp/images/0/08/Rainbow_Dash_hits_a_sign_S01E21.png)
+![](https://static.wikia.nocookie.net/mlp/images/2/2f/Applejack_%22BRAEBURN%21%22_S01E21.png)
+![S1E20](https://static.wikia.nocookie.net/mlp/images/5/59/Pinkie_Pie_Breaking_Fourth_Wall_Looney_Tunes_S1E21.png)
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_21.html)
+
+# S1E22 
+## A Bird in the Hoof
+![](https://static.wikia.nocookie.net/mlp/images/7/7a/Fluttershy_cutness_overload_S01E22.png)
+![](https://static.wikia.nocookie.net/mlp/images/7/72/Rainbow_Dash_making_funny_face_S1E22.png)
+![](https://static.wikia.nocookie.net/mlp/images/8/88/Pinkie_Pie_puts_a_pie_to_her_face_S1E22.png)
+![](https://static.wikia.nocookie.net/mlp/images/4/47/Twilight_gasps_S01E22.png)
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_28.html)
+
+# S1E23 
+## The Cutie Mark Chronicles
+![](https://static.wikia.nocookie.net/mlp/images/f/fc/ScreamingCrusaders_S01E23.png)
+![](https://static.wikia.nocookie.net/mlp/images/b/be/Filly_Applejack_in_Manehattan_3_S01E23.png)
+![](https://static.wikia.nocookie.net/mlp/images/7/74/Filly_Fluttershy_amazed_by_her_surroundings_S1E23.png)
+![](https://static.wikia.nocookie.net/mlp/images/6/69/First_Pinkie_Pie_smile_S1E23.png)
+## 進入小馬國
+[點擊此處](https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic.html)
+
+
