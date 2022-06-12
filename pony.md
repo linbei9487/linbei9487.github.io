@@ -46,4 +46,4 @@ filename: pony
 <br>
 
 # 找不到集數?
-[點我看歷史集數](https:/linbei9487.github.io/ponyhistory)
+[點我看歷史集數](https:/linbei9487.github.io/pony/history)
