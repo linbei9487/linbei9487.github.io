@@ -3,8 +3,8 @@ title: 進入小馬國
 layout: pony
 filename: pony
 --- 
-# S1E21 
-## Over a Barrel
+# S1E22 
+## A Bird in the Hoof
 ![](https://static.wikia.nocookie.net/mlp/images/7/7a/Fluttershy_cutness_overload_S01E22.png)
 ![](https://static.wikia.nocookie.net/mlp/images/7/72/Rainbow_Dash_making_funny_face_S1E22.png)
 ![](https://static.wikia.nocookie.net/mlp/images/8/88/Pinkie_Pie_puts_a_pie_to_her_face_S1E22.png)
