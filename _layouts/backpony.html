@@ -21,7 +21,7 @@
           width: 1080px;
     
       }
-      #myBtn {
+      .myBtn {
         display: none;
         position: fixed;
         bottom: 20px;
@@ -31,13 +31,14 @@
         border: none;
         outline: none;
         background-color: black;
+        opacity: 0.5;
         color: white;
         cursor: pointer;
         padding: 15px;
         border-radius: 4px;
       }
 
-      #myBtn:hover {
+      .myBtn:hover {
         background-color: #555;
       }
   </style>
@@ -51,19 +52,22 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <button onclick="topFunction()" class="myBtn" id="buttontop" title="Go to top">Top</button>
+    <button onclick="topFunction()" class="myBtn" id="buttonbottom" title="Go to Bottom">End</button>
     <script>
       //Get the button
-      var mybutton = document.getElementById("myBtn");
+      // var mybutton = document.getElementById("buttontop");
       
       // When the user scrolls down 20px from the top of the document, show the button
       window.onscroll = function() {scrollFunction()};
       
       function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-          mybutton.style.display = "block";
+          document.getElementById("buttontop").style.display = "block";
+          document.getElementById("buttonbottom").style.display = "none";
         } else {
-          mybutton.style.display = "none";
+          document.getElementById("buttontop").style.display = "none";
+          document.getElementById("buttonbottom").style.display = "block";
         }
       }
       
@@ -71,6 +75,11 @@
       function topFunction() {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
+      }
+      // When the user clicks on the button, scroll to the bottom of the document
+      function bottomFunction() {
+        document.body.scrollTop = document.body.scrollHeight;
+        document.documentElement.scrollTop = document.documentElement.scrollHeight;
       }
       </script>
     <meta name="referrer" content="no-referrer">
