@@ -19,7 +19,7 @@
       background-position: center;
       background-size: cover;
     }
-    #demo {
+    #counter {
         display: none;
         position: fixed;
         bottom: 20px;
@@ -29,7 +29,7 @@
         border: none;
         outline: none;
         background-color: black;
-        opacity: 0.7;
+        opacity: 0.8;
         color: white;
         cursor: pointer;
         padding: 15px;
@@ -70,9 +70,11 @@
   </header>
 
   <!-- Display the countdown timer in an element -->
-  <main id="content" class="main-content" role="main">
+
+    <div id="counter">
     <h1>吳方奈米口嗨累計時間<p id="demo"></p>
     </h1>
+    </div>
 
     <script>
       // Set the date we're counting down to
@@ -104,7 +106,7 @@
         // }
       }, 1000);
     </script>
-
+    <main id="content" class="main-content" role="main">
     {{ content }}
 
     <h2>頁面將在<span id="counter">20</span> 秒後刷新</h2>
