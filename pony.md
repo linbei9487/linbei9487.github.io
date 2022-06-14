@@ -4,11 +4,11 @@ layout: pony
 filename: pony
 --- 
 
-# S1E22 
-## A Bird in the Hoof
+# S2E01
+## The Return of Harmony, part 1
 <br>
 
-[點擊此處](https://linbei9487.github.io/pony/G4/S1#s1e22)
+[點擊此處](https://linbei9487.github.io/pony/G4/S2#s2e01)
 
 -----------------------------------------------------------------------------------------------------------------<br>
 
