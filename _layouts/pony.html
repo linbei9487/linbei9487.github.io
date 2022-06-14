@@ -53,63 +53,39 @@
     {% endif %}
   </header>
 
-  <time class="countdown-timer" datetime="2022-06-12T15:22:00">
-    <!-- Some fallback content, perhaps the date string itself or a message to users or machines that can't view this component with JS. -->
-    2022-06-12T15:22:00
-  </time>
-  <script>
-    import CountdownTimer from '@10up/countdown-timer';
+  <!-- Display the countdown timer in an element -->
+<p id="demo"></p>
 
-    new CountdownTimer('.countdown-timer', {
-      onCreate: function (instance) {
-        console.log('onCreate callback', instance);
-      },
-      onEnd: function (instance) {
-        console.log('onEnd callback', instance);
-      },
-      onTick: function (instance) {
-        console.log('onTick callback', instance);
-      },
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jun 12, 2022 15:22:00").getTime();
 
-      allowNegative: true,
-      compact: false,
-      padValues: false,
-      separator: ', ',
-      showZeroes: true,
-      years: {
-        allowed: true,
-        singular: 'year',
-        plural: 'years'
-      },
-      weeks: {
-        allowed: true,
-        singular: 'week',
-        plural: 'weeks'
-      },
-      days: {
-        allowed: true,
-        singular: 'day',
-        plural: 'days'
-      },
-      hours: {
-        allowed: true,
-        singular: 'hour',
-        plural: 'hours'
-      },
-      minutes: {
-        allowed: true,
-        singular: 'minute',
-        plural: 'minutes'
-      },
-      seconds: {
-        allowed: true,
-        singular: 'second',
-        plural: 'seconds'
-      }
-    });
+// Update the count down every 1 second
+var x = setInterval(function() {
 
+  // Get today's date and time
+  var now = new Date().getTime();
 
-  </script>
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  // if (distance < 0) {
+  //   clearInterval(x);
+  //   document.getElementById("demo").innerHTML = "EXPIRED";
+  // }
+}, 1000);
+</script>
   <main id="content" class="main-content" role="main">
     {{ content }}
 
