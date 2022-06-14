@@ -55,8 +55,8 @@
 
   <!-- Display the countdown timer in an element -->
   <main id="content" class="main-content" role="main">
-    <h2>吳方奈米口嗨累計時間<p id="demo"></p>
-    </h2>
+    <h1>吳方奈米口嗨累計時間<p id="demo"></p>
+    </h1>
 
     <script>
       // Set the date we're counting down to
@@ -78,8 +78,8 @@
         var seconds = (Math.floor((distance % (1000 * 60)) / 1000)) * -1;
 
         // Display the result in the element with id="demo"
-        document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-          + minutes + "m " + seconds + "s ";
+        document.getElementById("demo").innerHTML = days + "天" + hours + "小時"
+          + minutes + "分" + seconds + "秒";
 
         // If the count down is finished, write some text
         // if (distance < 0) {
