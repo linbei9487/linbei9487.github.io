@@ -19,16 +19,17 @@
       background-position: center;
       background-size: cover;
     }
+
     #divc {
-        display: inline;
-        position: fixed;
-        bottom: 20px;
-        right: 30px;
-        z-index: 99;
-        font-size: 12px;
-        opacity: 0.5;
-        color: black;
-      }
+      display: inline;
+      position: fixed;
+      bottom: 20px;
+      right: 30px;
+      z-index: 99;
+      font-size: 12px;
+      opacity: 0.5;
+      color: black;
+    }
   </style>
   {% seo %}
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -65,58 +66,58 @@
 
   <!-- Display the countdown timer in an element -->
 
-    <div id="divc">
+  <div id="divc">
     <h1>吳方奈米口嗨累計時間<p id="demo"></p>
     </h1>
-    </div>
+  </div>
 
-    <script>
-      // Set the date we're counting down to
-      var countDownDate = new Date("Jun 15, 2022 01:59:00").getTime();
+  <script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Jun 15, 2022 01:59:00").getTime();
 
-      // Update the count down every 1 second
-      var x = setInterval(function () {
+    // Update the count down every 1 second
+    var x = setInterval(function () {
 
-        // Get today's date and time
-        var now = new Date().getTime();
+      // Get today's date and time
+      var now = new Date().getTime();
 
-        // countdown or countup
-        var mode = countDownDate - now ;
-        if ( mode > 0 ){
+      // countdown or countup
+      var mode = countDownDate - now;
+      if (mode > 0) {
         // Find the distance between now and the count down date (countup)  
-          var distance = countDownDate - now ;
-        } else{ 
+        var distance = countDownDate - now;
+      } else {
         // Find the distance between now and the count down date (countup)
-          var distance = now - countDownDate ;
-        }
+        var distance = now - countDownDate;
+      }
 
-        // Time calculations for days, hours, minutes and seconds
-        var days = (Math.floor(distance / (1000 * 60 * 60 * 24))) * (1);
-        var hours = (Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))) * (1);
-        var minutes = (Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))) * (1);
-        var seconds = (Math.floor((distance % (1000 * 60)) / 1000)) * (1);
+      // Time calculations for days, hours, minutes and seconds
+      var days = (Math.floor(distance / (1000 * 60 * 60 * 24))) * (1);
+      var hours = (Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))) * (1);
+      var minutes = (Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))) * (1);
+      var seconds = (Math.floor((distance % (1000 * 60)) / 1000)) * (1);
 
-        if (days > 0 ){
-          // Display the result in the element with id="demo"
+      if (days > 0) {
+        // Display the result in the element with id="demo"
         document.getElementById("demo").innerHTML = days + "天" + hours + "小時"
           + minutes + "分" + seconds + "秒";
-        }else if (hours > 0 ){
-          document.getElementById("demo").innerHTML =  hours + "小時"
+      } else if (hours > 0) {
+        document.getElementById("demo").innerHTML = hours + "小時"
           + minutes + "分" + seconds + "秒";
-        }else if (minuts > 0 ){
-          document.getElementById("demo").innerHTML =  minutes + "分" + seconds + "秒";
-        }else { 
-          document.getElementById("demo").innerHTML =  seconds + "秒";
-        }  
-        
+      } else if (minuts > 0) {
+        document.getElementById("demo").innerHTML = minutes + "分" + seconds + "秒";
+      } else {
+        document.getElementById("demo").innerHTML = seconds + "秒";
+      }
 
-        // If the count down is finished, write some text
-        // if (distance < 0) {
-        //   clearInterval(x);
-        //   document.getElementById("demo").innerHTML = "EXPIRED";
-        // }
-      }, 1000);
-    </script>
+
+      // If the count down is finished, write some text
+      // if (distance < 0) {
+      //   clearInterval(x);
+      //   document.getElementById("demo").innerHTML = "EXPIRED";
+      // }
+    }, 1000);
+  </script>
   <main id="content" class="main-content" role="main">
     {{ content }}
 
