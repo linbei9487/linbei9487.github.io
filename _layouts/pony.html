@@ -67,7 +67,7 @@
   <!-- Display the countdown timer in an element -->
 
   <div id="divc">
-    <h1>吳方奈米口嗨累計時間<p id="demo"></p>
+    <h1>吳方奈米口嗨累計時間<p id="timer"></p>
     </h1>
   </div>
 
@@ -98,23 +98,23 @@
       var seconds = (Math.floor((distance % (1000 * 60)) / 1000)) * (1);
 
       if (days > 0) {
-        // Display the result in the element with id="demo"
-        document.getElementById("demo").innerHTML = days + "天" + hours + "小時"
+        // Display the result in the element with id="timer"
+        document.getElementById("timer").innerHTML = days + "天" + hours + "小時"
           + minutes + "分" + seconds + "秒";
       } else if (hours > 0) {
-        document.getElementById("demo").innerHTML = hours + "小時"
+        document.getElementById("timer").innerHTML = hours + "小時"
           + minutes + "分" + seconds + "秒";
       } else if (minuts > 0) {
-        document.getElementById("demo").innerHTML = minutes + "分" + seconds + "秒";
+        document.getElementById("timer").innerHTML = minutes + "分" + seconds + "秒";
       } else {
-        document.getElementById("demo").innerHTML = seconds + "秒";
+        document.getElementById("timer").innerHTML = seconds + "秒";
       }
 
 
       // If the count down is finished, write some text
       // if (distance < 0) {
       //   clearInterval(x);
-      //   document.getElementById("demo").innerHTML = "EXPIRED";
+      //   document.getElementById("timer").innerHTML = "EXPIRED";
       // }
     }, 1000);
   </script>
