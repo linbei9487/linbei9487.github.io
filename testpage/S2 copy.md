@@ -1,6 +1,6 @@
 ---
 title: Twilight's Library Season 2
-layout: backponytest
+layout: backpony
 filename: ponyG4S2
 --- 
 # 回到上一季
@@ -13,9 +13,7 @@ filename: ponyG4S2
 ![](https://static.wikia.nocookie.net/mlp/images/1/19/Rainbow_Dash_on_the_ground_without_her_wings_S02E01.png/revision/latest)
 ![](https://static.wikia.nocookie.net/mlp/images/c/cc/TwilightRarity_WheresMyHorn_S02E01.png/revision/latest)<br>
 ## 進入小馬國
-[點擊此處](https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_16.html)<br>
-Password:4093    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/Q1hOaVlmLTQ2Njk3MzYuZmx2?ar=0&as=0" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+[點擊此處](https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_16.html)
 
 # S2E02 
 ## The Return of Harmony, part 2
@@ -25,8 +23,6 @@ Password:4093
 ![](https://static.wikia.nocookie.net/mlp/images/c/c3/The_ponies_pull_Rainbow_Dash_down_S2E02.gif/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_20.html)
-Password:3046    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/UkMybWNTLTQ2OTIyMTguZmx2?ar=0&as=0" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E03
 ## Lesson Zero
@@ -36,8 +32,6 @@ Password:3046
 ![](https://static.wikia.nocookie.net/mlp/images/6/69/Clock_is_ticking_S02E03.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_25.html)
-Password:0000    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/RnBmVmthLTQ3MTc0NTYuZmx2?ar=0&as=0" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E04
 ## Luna Eclipsed
@@ -47,8 +41,6 @@ Password:0000
 ![](https://static.wikia.nocookie.net/mlp/images/7/70/Rainbow_Dash_gets_startled_S2E04.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_27.html)
-Password:0993   
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/SHJVM05oLTQ3MjczMTEuZmx2?ar=0&as=0" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E05
 ## Sisterhooves Social
@@ -58,9 +50,7 @@ Password:0993
 ![](https://static.wikia.nocookie.net/mlp/images/c/c9/Apple_Bloom_Sweetie_Belle_fighting_over_Applejack_S2E05.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
-
+ 
 # S2E06
 ## The Cutie Pox
 ![](https://static.wikia.nocookie.net/mlp/images/e/e5/Scootaloo_Bowling_2_S2E6.png/revision/latest)
@@ -69,9 +59,7 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/b/b3/Applejack_being_shaken_by_Apple_Bloom_S2E06.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/05/my-little-pony-friendship-is-magic_4.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
-
+ 
 # S2E07
 ## May the Best Pet Wins!
 ![](https://static.wikia.nocookie.net/mlp/images/0/0c/Rainbow_Dash_Scream_2_S2E7.png/revision/latest)
@@ -80,8 +68,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/5/5f/Rainbow_Dash_providing_some_extra_lift_S2E07.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/05/my-little-pony-friendship-is-magic_11.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E08
 ## The Mysterious Mare Do Well
@@ -91,8 +77,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/6/6d/Rainbow_Dash_ahhhhhhh_S2E8.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/05/my-little-pony-friendship-is-magic_18.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E09
 ## Sweet and Elite
@@ -102,8 +86,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/1/1e/Rainbow_Dash_Ponyville_style_S2E9.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/05/my-little-pony-friendship-is-magic.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E10
 ## Secret of My Excess
@@ -113,8 +95,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/1/17/Twilight_Sparkle_Applejack_tied_tree_S2E10.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/05/my-little-pony-friendship-is-magic.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E11
 ## Hearth's Warming Eve
@@ -124,8 +104,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/1/15/Rarity_riding_Twilight_S2E11.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic_8.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E12
 ## Family Appreciation Day
@@ -135,8 +113,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/f/f4/ElectrifiedSweetieBelle_S02E12.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic_13.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E13
 ## Baby Cakes
@@ -146,8 +122,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/9/93/Pinkie_Pie_about_to_cry_S2E13.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic_15.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E14
 ## The Last Roundup
@@ -159,8 +133,6 @@ Password:2203
 ### "*Nopony breaks a Pinkie PROMISE!*"
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic_20.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E15
 ## The Super Speed Cider Squeezy 6000
@@ -170,8 +142,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/3/31/Rainbow_Dash_cruel_joke_S2E15.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic_22.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E16
 ## Read It and Weep
@@ -181,8 +151,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/2/27/Rainbow_turns_on_lamp_S2E16.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic_27.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E17
 ## Hearts and Hooves Day
@@ -192,8 +160,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/2/29/CMC_Ingredients_03_S02E17.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/06/my-little-pony-friendship-is-magic.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E18
 ## A Friend in Deed
@@ -203,8 +169,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/b/bb/Pinkie_Looking_Acorable_S02E18.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/07/my-little-pony-friendship-is-magic_6.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E19
 ## Putting Your Hoof Down
@@ -214,8 +178,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/d/d0/Flutterroar_S2E19.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/07/my-little-pony-friendship-is-magic_13.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
  
 # S2E20 
 ## It's About time
@@ -225,8 +187,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/9/9c/Twilight_with_flowerpot_on_her_head_S2E20.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/07/my-little-pony-friendship-is-magic_20.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E21 
 ## Dragon quest
@@ -236,8 +196,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/d/d2/Phoenix_sunburst_2_S2E21.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/07/my-little-pony-friendship-is-magic.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E22 
 ## Hurricane Fluttershy
@@ -247,8 +205,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/a/ae/Fluttershy_crying_S2E22.gif/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/08/my-little-pony-friendship-is-magic_3.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E23 
 ## Ponyville Confidential
@@ -259,8 +215,6 @@ Password:2203
 I'll *destroy* her!
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/08/my-little-pony-friendship-is-magic_10.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 
 
@@ -272,8 +226,6 @@ Password:2203
 ![](https://static.wikia.nocookie.net/mlp/images/c/cf/Pinkie_Pie_gassed_2_S2E24.png/revision/latest)<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/08/my-little-pony-friendship-is-magic_17.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # **ＷＯＲＫ ＩＮ ＰＲＯＧＲＥＳＳ**
 我目前就看到這裡 等會再來
@@ -286,8 +238,6 @@ Password:2203
 ![]()<br>
 ## 進入小馬國
 [點擊此處](https://hdx3.blogspot.com/2012/08/my-little-pony-friendship-is-magic.html)
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/WFhueERzLTUzNjIwNTMuZmx2?ar=0&amp;as=0" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 
 # S2E26
 ## A Canterlot Wedding - Part 2
@@ -296,8 +246,7 @@ Password:2203
 ![]()
 ![]()<br>
 ## 進入小馬國
-[點擊此處](https://hdx3.blogspot.com/2012/08/my-little-pony-friendship-is-magic.html)<br>
-Password:2203    
-<iframe allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" src="https://vlog.xuite.net/embed/WFhueERzLTUzNjIwNTMuZmx2?ar=0&amp;as=0" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+[點擊此處](https://hdx3.blogspot.com/2012/08/my-little-pony-friendship-is-magic.html)    
+
 # 前往下一季
 [點擊此處](https://linbei9487.github.io/pony/G4/S3)    
