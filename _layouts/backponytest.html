@@ -45,6 +45,16 @@
       .myBtn:hover {
         background-color: #555;
       }
+      #divc {
+      display: inline;
+      position: fixed;
+      bottom: 20px;
+      left: 30px;
+      z-index: -1;
+      font-size: 12px;
+      opacity: 0.5;
+      color: black;
+    }
   </style>
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -111,6 +121,60 @@
       {% endif %}
     </header>
 
+    <!-- Display the countdown timer in an element -->
+
+  <div id="divc">
+    <h1>口嗨累計時間<p id="timer"></p>
+    </h1>
+  </div>
+
+  <script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Jul 3, 2022 03:09:00").getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function () {
+
+      // Get today's date and time
+      var now = new Date().getTime();
+
+      // countdown or countup
+      var mode = countDownDate - now;
+      if (mode > 0) {
+        // Find the distance between now and the count down date (countup)  
+        var distance = countDownDate - now;
+      } else {
+        // Find the distance between now and the count down date (countup)
+        var distance = now - countDownDate;
+      }
+
+      // Time calculations for days, hours, minutes and seconds
+      var days = (Math.floor(distance / (1000 * 60 * 60 * 24))) * (1);
+      var hours = (Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))) * (1);
+      var minutes = (Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))) * (1);
+      var seconds = (Math.floor((distance % (1000 * 60)) / 1000)) * (1);
+
+      if (days > 0) {
+        // Display the result in the element with id="timer"
+        document.getElementById("timer").innerHTML = days + "天" + hours + "小時"
+          + minutes + "分" + seconds + "秒";
+      } else if (hours > 0) {
+        document.getElementById("timer").innerHTML = hours + "小時"
+          + minutes + "分" + seconds + "秒";
+      } else if (minuts > 0) {
+        document.getElementById("timer").innerHTML = minutes + "分" + seconds + "秒";
+      } else {
+        document.getElementById("timer").innerHTML = seconds + "秒";
+      }
+
+
+      // If the count down is finished, write some text
+      // if (distance < 0) {
+      //   clearInterval(x);
+      //   document.getElementById("timer").innerHTML = "EXPIRED";
+      // }
+    }, 1000);
+  </script>
     <main id="content" class="main-content" role="main">
       {{ content }}
 

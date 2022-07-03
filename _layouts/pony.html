@@ -72,8 +72,16 @@
   </div>
 
   <script>
+    var requestURL = "https://linbei9487.github.io/json/countdown.json"
+    var request = new XMLHttpRequest();
+    request.open('GET', requestURL);
+    request.responseType = 'json';
+    request.send();
+    request.onload = function() {
+    var countjson = Json.parse(request.responsetext);
+}
     // Set the date we're counting down to
-    var countDownDate = new Date("Jun 15, 2022 01:59:00").getTime();
+    var countDownDate = new Date(countjson.countdown).getTime();
 
     // Update the count down every 1 second
     var x = setInterval(function () {
