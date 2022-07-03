@@ -17,10 +17,11 @@ var requestURL = "https://linbei9487.github.io/src/json/episode.json"
     var step;
     var id
     id = 0
-    for (step=0; step <6 :step++)
+    for (step=0; step <6 :step++){
         document.getElementById("p"+ id).innerHTML =(data2.episode[id].pw)
         document.getElementById("p"+ id).innerHTML =(data2.episode[id].link)
         console.log(ddata2.episode[id].pw)
         console.log(data2.episode[id].link)
         id++
+        }
 </script>
