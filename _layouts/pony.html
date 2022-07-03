@@ -72,6 +72,7 @@
   </div>
 
   <script>
+    var y = setInterval(function () {
     var requestURL = "https://linbei9487.github.io/json/countdown.json"
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
@@ -125,6 +126,7 @@
       //   document.getElementById("timer").innerHTML = "EXPIRED";
       // }
     }, 1000);}
+  }, 60000);
   </script>
   <main id="content" class="main-content" role="main">
     {{ content }}
