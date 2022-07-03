@@ -18,7 +18,7 @@ test<br>
 <iframe id="m3" allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 <iframe id="m4" allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 <script>
-var requestURL = "https://linbei9487.github.io/src/json/episode.json"
+var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/episode.json"
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     // request.responseType = 'json';
