@@ -29,23 +29,10 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     request.send();
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
-    var video;
-    video =(data2.episode[3].link)
     var step;
-    var id
-    id = 0
     for (step=0; step <6 ; step++){
-        console.log(data2.episode[id].i1)
-        document.getElementById("p"+ id).innerHTML =(data2.episode[id].pw)
-        document.getElementById("l"+ id).innerHTML =(data2.episode[id].index)
-        document.getElementById("m"+ id).src =(data2.episode[id].link)
-        document.getElementById("i1"+ id).src =(data2.episode[id].i1)
-        document.getElementById("i2"+ id).src =(data2.episode[id].i2)
-        document.getElementById("i3"+ id).src =(data2.episode[id].i3)
-        document.getElementById("i4"+ id).src =(data2.episode[id].i4)
-        console.log(data2.episode[id].pw)
-        console.log(data2.episode[id].index)
-        console.log(data2.episode[id].link)
+        document.getElementById("p"+ step).innerHTML =(data2.episode[id].pw)
+        document.getElementById("m"+ step).src =(data2.episode[id].link)
         id++
         }};
 </script>
