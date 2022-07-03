@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <meta http-equiv="refresh" content="20">
+  <!-- <meta http-equiv="refresh" content="20"> -->
   <!-- ; URL=https://linbei9487.github.io/pony"> -->
   <!-- <link rel="canonical" href="https://linbei9487.github.io/pony"> -->
   <style>
@@ -78,11 +78,11 @@
     // request.responseType = 'json';
     request.send();
     request.onload = function() {
-    var countjson = JSON.parse(request.responsetext);
-}
-    // Set the date we're counting down to
-    var countDownDate = new Date(countjson.countdown).getTime();
+    var data = JSON.parse(request.responseText);
 
+    // Set the date we're counting down to
+    var countDownDate = new Date(data.countDown).getTime();
+    // console.log(data.countDown)
     // Update the count down every 1 second
     var x = setInterval(function () {
 
@@ -124,12 +124,12 @@
       //   clearInterval(x);
       //   document.getElementById("timer").innerHTML = "EXPIRED";
       // }
-    }, 1000);
+    }, 1000);}
   </script>
   <main id="content" class="main-content" role="main">
     {{ content }}
 
-    <h2>頁面將在<span id="counter">20</span> 秒後刷新</h2>
+    <!-- <h2>頁面將在<span id="counter">20</span> 秒後刷新</h2>
     <script type="text/javascript">
       function countdown() {
         var i = document.getElementById('counter');
@@ -142,7 +142,7 @@
           i.innerHTML = parseInt(i.innerHTML) - 1;
         }
       }
-      setInterval(function () { countdown(); }, 1000);
+      setInterval(function () { countdown(); }, 1000); -->
     </script>
 
     <footer class="site-footer">
