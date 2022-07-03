@@ -5,7 +5,14 @@ filename: testpage
 --- 
 
 test<br>
+
 <p id="p0"></p>
+<p id="l0"></p>
+<p id="p1"></p>
+<p id="l1"></p>
+<p id="p2"></p>
+<p id="l2"></p>
+<iframe id="m2" allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
 <script>
 var requestURL = "https://linbei9487.github.io/src/json/episode.json"
     var request = new XMLHttpRequest();
@@ -14,13 +21,17 @@ var requestURL = "https://linbei9487.github.io/src/json/episode.json"
     request.send();
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
+    var video;
+    video =(data2.episode[3].link)
     var step;
     var id
     id = 0
     for (step=0; step <6 ; step++){
         document.getElementById("p"+ id).innerHTML =(data2.episode[id].pw)
-        document.getElementById("p"+ id).innerHTML =(data2.episode[id].link)
-        console.log(ddata2.episode[id].pw)
+        document.getElementById("l"+ id).innerHTML =(data2.episode[id].index)
+        document.getElementById("m"+ id).src =(data2.episode[id].link)
+        console.log(data2.episode[id].pw)
+        console.log(data2.episode[id].index)
         console.log(data2.episode[id].link)
         id++
         }};
