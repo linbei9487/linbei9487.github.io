@@ -30,8 +30,8 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="./css/btn.css"  type="text/css">
-    <link rel="stylesheet" href="./css/countdown.css"  type="text/css">
+    <link rel="stylesheet" href="./src/css/btn.css"  type="text/css">
+    <link rel="stylesheet" href="./src/countdown.css"  type="text/css">
     {% include head-custom.html %}
   </head>
   <body>
@@ -63,10 +63,16 @@
       {% endif %}
     </header>
     <script src="./src/js/btn.js"></script>
+    <div id="divc">
+      <h1>口嗨累計時間<p id="timer"></p>
+      </h1>
+    </div>
+  
+    <script src="./src/js/timer.js"></script>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <h2>頁面將在<span id="counter">20</span> 秒後刷新</h2>
+      <!-- <h2>頁面將在<span id="counter">20</span> 秒後刷新</h2>
 <script type="text/javascript">
 function countdown() {
     var i = document.getElementById('counter');
@@ -80,7 +86,7 @@ if (parseInt(i.innerHTML)!=0) {
 }
 }
 setInterval(function(){ countdown(); },1000);
-</script>
+</script> -->
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
