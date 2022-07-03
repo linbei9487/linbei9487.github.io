@@ -35,8 +35,8 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="./src/css/btn.css"  type="text/css">
-    <link rel="stylesheet" href="./src/css/countdown.css"  type="text/css">
+    <link rel="stylesheet" href="/src/css/btn.css"  type="text/css">
+    <link rel="stylesheet" href="/src/css/countdown.css"  type="text/css">
     {% include head-custom.html %}
   </head>
   <body>
@@ -71,13 +71,13 @@
     <!-- Display the countdown timer in an element -->
     <button onclick="topFunction()" class="myBtn" id="buttontop" title="Go to top">Top</button>
     <button onclick="bottomFunction()" class="myBtn" id="buttonbottom" title="Go to Bottom">End</button>
-    <script src="./src/js/btn.js"></script>
+    <script src="/src/js/btn.js"></script>
   <div id="divc">
     <h1>口嗨累計時間<p id="timer"></p>
     </h1>
   </div>
 
-  <script src="./src/js/timer.js"></script>
+  <script src="/src/js/timer.js"></script>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
