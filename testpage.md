@@ -9,10 +9,10 @@ test<br>
 <p id="p0"></p>
 <p id="l0"></p>
 <iframe id="m0" allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
-<img id="i11">
-<img id="i21">
-<img id="i31">
-<img id="i41">
+<img id="i11" src=""/>
+<img id="i21" src=""/>
+<img id="i31" src=""/>
+<img id="i41" src=""/>
 <p id="p1"></p>
 <p id="l1"></p>
 <iframe id="m1" allowfullscreen="true" frameborder="0" height="468" marginheight="0" marginwidth="0" scrolling="no" width="640" referrerpolicy="no-referrer-when-downgrade" ></iframe>
