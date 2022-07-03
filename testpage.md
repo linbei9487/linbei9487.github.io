@@ -23,5 +23,5 @@ var requestURL = "https://linbei9487.github.io/src/json/episode.json"
         console.log(ddata2.episode[id].pw)
         console.log(data2.episode[id].link)
         id++
-        }
+        };
 </script>
