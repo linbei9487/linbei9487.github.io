@@ -1,5 +1,5 @@
     var y = setInterval(function () {
-    var requestURL = "https://linbei9487.github.io/assest/json/countdown.json"
+    var requestURL = "https://linbei9487.github.io/src/json/countdown.json"
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     // request.responseType = 'json';
