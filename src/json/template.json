@@ -1,136 +1,49 @@
 {
+    "season":"",
+    "pre":"/G4/S",
+    "next":"/G4/S",
     "episode" :[
     {
-        "index":"1" ,        
-        "link": "",
-        "pw" :""
+        "index":"01" , 
+        "name" :"",
+        "texttop":"",
+        "img1":"",
+        "img2":"",
+        "img3":"",
+        "img4":"",
+        "textend":"",
+        "link":"",
+        "pw" :"",
+        "vid":""
         
     },
     {
-        "index":"2" ,        
-        "link": "",
-        "pw" :""
-      
+        "index":"02" , 
+        "name" :"",
+        "texttop":"",
+        "img1":"",
+        "img2":"",
+        "img3":"",
+        "img4":"",
+        "textend":"",
+        "link":"",
+        "pw" :"",
+        "vid":""
+        
     },
     {
-        "index":"3" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"4" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"5" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"6" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"7" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"8" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"9" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"10" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"11" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"12" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"13" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"14" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"15" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"16" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"17" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"18" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"19" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"20" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"21" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"22" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"23" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"24" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"25" ,        
-        "link": "",
-        "pw" :""
-    },
-    {
-        "index":"26" ,        
-        "link": "",
-        "pw" :""
+        "index":"03" , 
+        "name" :"WWW3",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/e/e3/Cheerilee_sighs_S2E01.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/3/34/Epic_blue_and_purple_ring_of_magic_S2E01.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/1/19/Rainbow_Dash_on_the_ground_without_her_wings_S02E01.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/c/cc/TwilightRarity_WheresMyHorn_S02E01.png/revision/latest",
+        "textend":"31",
+        "link":"https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_16.html",
+        "pw" :"09626",
+        "vid":"https://vlog.xuite.net/embed/dldkaFJ6LTM5ODM2NjEuZmx2?ar=0&as=0"
+        
     }
 
     ]
