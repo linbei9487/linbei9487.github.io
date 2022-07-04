@@ -37,7 +37,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         document.body.append(eqe);
         var lin = document.createElement('a');
         lin.innerHTML=("點擊此處")
-        lin.href =((data2.episode[step].index));
+        lin.href =((data2.episode[step].link));
         lin.id = ("lin"+ step);
         document.body.append(lin);
         var par = document.createElement('p');
@@ -45,7 +45,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         par.id = ("p"+ step);
         document.body.append(par);
         var vid = document.createElement('iframe');
-        vid.src = (data2.episode[step].link);
+        vid.src = (data2.episode[step].vid);
         vid.id = ("m"+ step);
         document.body.append(vid)
         // document.getElementById("p"+ step).innerHTML =("Password: "+ (data2.episode[step].pw));
