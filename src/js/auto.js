@@ -9,7 +9,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     console.log((data2.episode.length))
     for (step=0; step < (data2.episode.length) ; step++){
         var tit = document.createElement('h1');
-        tit.innerHTML =("S"+(data2.episode[step].season)+"E"+ (data2.episode[step].index));
+        tit.innerHTML =("S"+(data2.season)+"E"+ (data2.episode[step].index));
         tit.id = ("tit"+ step);
         var nam = document.createElement('h2');
         nam.innerHTML =((data2.episode[step].name));
