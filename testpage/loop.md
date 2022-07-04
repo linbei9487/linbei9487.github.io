@@ -5,7 +5,7 @@ filename: ponyG4S2
 ---
 
 <!-- <script type="text/javascript" src="https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/js/auto.js" crossorigin="anonymous"></script> -->
-<audio controls src="/img/BPI.mp3"></audio>
+<!-- <audio controls src="/img/BPI.mp3"></audio> -->
 <script>
 var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/test.json"
     var request = new XMLHttpRequest();
