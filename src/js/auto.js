@@ -7,9 +7,9 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     var data2 = JSON.parse(request.responseText);
     var step;
     var main = document.getElementsByTagName('main');
-    for (step=0; step < 3 ; step++){
+    for (step=0; step < (Object.keys(data2.episode[0]).length) ; step++){
         var tit = document.createElement('h1');
-        tit.innerHTML =("S3E"+ (data2.episode[step].index));
+        tit.innerHTML =("S"+(data2.episode[step].season)+"E"+ (data2.episode[step].index));
         tit.id = ("tit"+ step);
         var nam = document.createElement('h2');
         nam.innerHTML =((data2.episode[step].name));
