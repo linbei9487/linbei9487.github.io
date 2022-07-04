@@ -15,7 +15,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
     var step;
-    var element = document.getElementById("content");s
+    var element = document.getElementById("content");
     var previous = document.createElement('h1');
     previous.innerHTML=("回到上一季")
     var perlin = document.createElement('a');
