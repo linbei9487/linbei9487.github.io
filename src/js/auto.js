@@ -6,9 +6,9 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
     var step;
-    var main = document.getElementsByTagName('main');
+    // var main = document.getElementsByTagName('main');
     console.log((Object.keys(data2.episode[0]).length))
-    for (step=0; step < (Object.keys(data2.episode[0]).length) ; step++){
+    for (step=0; step < (Object.keys(data2.episode).length) ; step++){
         var tit = document.createElement('h1');
         tit.innerHTML =("S"+(data2.episode[step].season)+"E"+ (data2.episode[step].index));
         tit.id = ("tit"+ step);
@@ -40,7 +40,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         var vid = document.createElement('iframe');
         vid.src = (data2.episode[step].vid);
         vid.id = ("m"+ step);
-        main.insertAdjacentElement("beforeend", tit,nam,img1,img2,img3,img4,eqe,lin,par,vid)
+        (document.getElementsByTagName('main')).insertAdjacentElement("beforeend", tit,nam,img1,img2,img3,img4,eqe,lin,par,vid);
         // document.getElementById("p"+ step).innerHTML =("Password: "+ (data2.episode[step].pw));
         // document.getElementById("m"+ step).src =(data2.episode[step].link);
     
