@@ -39,8 +39,8 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         var vid = document.createElement('iframe');
         vid.src = (data2.episode[step].vid);
         vid.id = ("m"+ step);
-        var main = document.getElementsByTagName('main');
-        main.insertAdjacentElement("beforeend", tit);
+        var elemant = document.getElementsByTagName("main");
+        element.insertAdjacentElement("beforeend", tit);
         // ,nam,img1,img2,img3,img4,eqe,lin,par,vid
         // document.getElementById("p"+ step).innerHTML =("Password: "+ (data2.episode[step].pw));
         // document.getElementById("m"+ step).src =(data2.episode[step].link);
