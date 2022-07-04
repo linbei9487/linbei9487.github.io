@@ -4,4 +4,4 @@ layout: backpony
 filename: ponyG4S2
 ---
 
-<script type="text/javascript" src="https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/js/auto.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/js/auto.js" crossorigin="use-credentials"></script>
