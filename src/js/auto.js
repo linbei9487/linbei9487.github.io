@@ -36,7 +36,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         par.innerHTML =("Password: "+ (data2.episode[step].pw));
         par.id = ("p"+ step);
         var vid = document.createElement('iframe');
-        vid.src(data2.episode[step].link);
+        vid.src = (data2.episode[step].link);
         vid.id = ("m"+ step);
         document.append(tit,nam,img1,img2,img3,img4,eqe,lin,par,vid)
         // document.getElementById("p"+ step).innerHTML =("Password: "+ (data2.episode[step].pw));
