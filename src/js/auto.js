@@ -6,6 +6,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
     var step;
+    var main = document.getElementsByTagName('main');
     for (step=0; step < 3 ; step++){
         var tit = document.createElement('h1');
         tit.innerHTML =("S3E"+ (data2.episode[step].index));
@@ -38,7 +39,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         var vid = document.createElement('iframe');
         vid.src = (data2.episode[step].vid);
         vid.id = ("m"+ step);
-        document.getElementsByTagName('main').append(tit,nam,img1,img2,img3,img4,eqe,lin,par,vid)
+        main.append(tit,nam,img1,img2,img3,img4,eqe,lin,par,vid)
         // document.getElementById("p"+ step).innerHTML =("Password: "+ (data2.episode[step].pw));
         // document.getElementById("m"+ step).src =(data2.episode[step].link);
     
