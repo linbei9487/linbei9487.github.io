@@ -6,7 +6,7 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
     var step;
-    console.log((data2.episode.length))
+    // console.log((data2.episode.length))
     for (step=0; step < (data2.episode.length) ; step++){
         var tit = document.createElement('h1');
         tit.innerHTML =("S"+(data2.season)+"E"+ (data2.episode[step].index));
@@ -14,6 +14,12 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         var nam = document.createElement('h2');
         nam.innerHTML =((data2.episode[step].name));
         nam.id = ("nam"+ step);
+        if ((data2.episode[step].texttop)===""){           
+        }else{
+            var texttop = document.createElement('p');
+            texttop.innerHTML =((data2.episode[step].texttop));
+            texttop.id = ("textt"+ step);    
+        }
         var img1 =document.createElement('img');
         img1.src =(data2.episode[step].img1);
         img1.id=("img1"+ step)
@@ -26,6 +32,12 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         var img4 =document.createElement('img');
         img4.src =(data2.episode[step].img4);
         img4.id=("img4"+ step)
+        if ((data2.episode[step].textend)===""){           
+        }else{
+            var textend = document.createElement('p');
+            textend.innerHTML =((data2.episode[step].textend));
+            textend.id = ("texte"+ step);    
+        }
         var eqe = document.createElement('h2');
         eqe.innerHTML =("進入小馬國");
         eqe.id = ("eqe"+ step);
@@ -38,14 +50,24 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         par.id = ("p"+ step);
         var vid = document.createElement('iframe');
         vid.src = (data2.episode[step].vid);
+        vid.referrerPolicy = "no-referrer-when-downgrade"
+        vid.allowFullscreen = "true"
         vid.id = ("m"+ step);
         var element = document.getElementById("content");
         element.insertAdjacentElement("beforeend", tit);
         element.insertAdjacentElement("beforeend", nam);
+        if ((data2.episode[step].texttop)===""){           
+        }else{
+            element.insertAdjacentElement("beforeend", texttop);
+        }
         element.insertAdjacentElement("beforeend", img1);
         element.insertAdjacentElement("beforeend", img2);
         element.insertAdjacentElement("beforeend", img3);
         element.insertAdjacentElement("beforeend", img4);
+        if ((data2.episode[step].textend)===""){           
+        }else{
+            element.insertAdjacentElement("beforeend", textend);
+        }
         element.insertAdjacentElement("beforeend", eqe);
         element.insertAdjacentElement("beforeend", lin);
         element.insertAdjacentElement("beforeend", par);
