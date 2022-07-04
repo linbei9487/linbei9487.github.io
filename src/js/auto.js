@@ -6,6 +6,17 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     request.onload = function() {
     var data2 = JSON.parse(request.responseText);
     var step;
+    var previous = document.createElement('h1');
+    previous.innerHTML=("回到上一季")
+    var perlin = document.createElement('a');
+    perlin.innerHTML=("點擊此處")
+    perlin.href =((data2.episode.pre));
+    perlin.id = ("per");
+    if ((data2.episode[step].pre)===""){           
+    }else{
+        element.insertAdjacentElement("afterbegin", perlin);
+        element.insertAdjacentElement("afterbegin", previous);
+    }
     // console.log((data2.episode.length))
     for (step=0; step < (data2.episode.length) ; step++){
         var tit = document.createElement('h1');
@@ -75,5 +86,16 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         // ,nam,img1,img2,img3,img4,eqe,lin,par,vid
         // document.getElementById("p"+ step).innerHTML =("Password: "+ (data2.episode[step].pw));
         // document.getElementById("m"+ step).src =(data2.episode[step].link);
-    
-        }};
+        }
+    var next = document.createElement('h1');
+    next.innerHTML=("前往下一季")
+    var nextlin = document.createElement('a');
+    nextlin.innerHTML=("點擊此處")
+    nextlin.href =((data2.episode.next));
+    nextlin.id = ("next");
+    if ((data2.episode[step].next)===""){           
+    }else{
+        element.insertAdjacentElement("beforeend", next);
+        element.insertAdjacentElement("beforeend", nextlin);
+    }
+    };
