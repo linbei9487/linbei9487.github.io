@@ -19,9 +19,9 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     previous.innerHTML=("回到上一季")
     var perlin = document.createElement('a');
     perlin.innerHTML=("點擊此處")
-    perlin.href =((data2.episode.pre));
+    perlin.href =((data2.pre));
     perlin.id = ("per");
-    if ((data2.episode[step].pre)===""){           
+    if ((data2.pre)===""){           
     }else{
         element.insertAdjacentElement("afterbegin", perlin);
         element.insertAdjacentElement("afterbegin", previous);
@@ -100,9 +100,9 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
     next.innerHTML=("前往下一季")
     var nextlin = document.createElement('a');
     nextlin.innerHTML=("點擊此處")
-    nextlin.href =((data2.episode.next));
+    nextlin.href =((data2.next));
     nextlin.id = ("next");
-    if ((data2.episode[step].next)===""){           
+    if ((data2.next)===""){           
     }else{
         element.insertAdjacentElement("beforeend", next);
         element.insertAdjacentElement("beforeend", nextlin);
