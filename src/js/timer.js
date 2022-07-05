@@ -1,15 +1,15 @@
-var element = document.getElementById("content");
-console.log(element)
+var element2 = document.getElementById("content");
+console.log(element2)
 var divc = document.createElement('div');
 divc.id=("divc")
-element.insertAdjacentElement("afterend", divc);
+console.log(divc)
 var h1 = document.createElement('h1');
 h1.innerHTML=("口嗨累計時間")
+console.log(h1)
 var p=document.createElement('p');
 p.id=("timer")
-console.log(element)
-console.log(divc)
-console.log(h1)
+
+element2.insertAdjacentElement("afterend", divc);
 divc.insertAdjacentElement("afterbegin",h1)
 h1.insertAdjacentElement("beforeend",p)
 var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/countdown.json"
