@@ -1,4 +1,5 @@
 var element = document.getElementById("content");
+console.log(element)
 var divc = document.createElement('div');
 divc.id=("divc")
 element.insertAdjacentElement("afterend", divc);
