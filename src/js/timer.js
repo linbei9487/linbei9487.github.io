@@ -1,17 +1,29 @@
-    var y = setInterval(function () {
-    var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/countdown.json"
-    var request = new XMLHttpRequest();
-    request.open('GET', requestURL);
-    // request.responseType = 'json';
-    request.send();
-    request.onload = function() {
-    var data = JSON.parse(request.responseText);
+var element = document.getElementById("content");
+var divc = document.createElement('div');
+divc.id=("divc")
+element.insertAdjacentElement("afterend", divc);
+var h1 = document.createElement('h1');
+h1.innerHTML=("口嗨累計時間")
+var p=document.createElement('p');
+p.id=("timer")
+console.log(element)
+console.log(divc)
+console.log(h1)
+divc.insertAdjacentElement("afterbegin",h1)
+h1.insertAdjacentElement("beforeend",p)
+var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/countdown.json"
+var request = new XMLHttpRequest();
+request.open('GET', requestURL);
+// request.responseType = 'json';
+request.send();
+request.onload = function() {
+  var data = JSON.parse(request.responseText);
 
-    // Set the date we're counting down to
-    var countDownDate = new Date(data.countDown).getTime();
-    // console.log(data.countDown)
-    // Update the count down every 1 second
-    var x = setInterval(function () {
+  // Set the date we're counting down to
+  var countDownDate = new Date(data.countDown).getTime();
+  // console.log(data.countDown)
+  // Update the count down every 1 second
+  var x = setInterval(function () {
 
       // Get today's date and time
       var now = new Date().getTime();
@@ -31,26 +43,35 @@
       var hours = (Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))) * (1);
       var minutes = (Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))) * (1);
       var seconds = (Math.floor((distance % (1000 * 60)) / 1000)) * (1);
-
+      if (seconds < 10){
+        seconds = ("0"+seconds)
+      }
+      if (minutes < 10){
+        minutes = ("0"+minutes)
+      }
+      if (hours < 10){
+        hours = ("0"+hours)
+      }
+      console.log(seconds)
       if (days > 0) {
         // Display the result in the element with id="timer"
-        document.getElementById("timer").innerHTML = days + "天" + hours + "小時"
-          + minutes + "分" + seconds + "秒";
+        document.getElementById("timer").innerHTML = (days + "天" + hours + "小時"
+          + minutes + "分" + seconds + "秒");
       } else if (hours > 0) {
-        document.getElementById("timer").innerHTML = hours + "小時"
-          + minutes + "分" + seconds + "秒";
+        document.getElementById("timer").innerHTML = hours + ("小時"
+          + minutes + "分" + seconds + "秒");
       } else if (minuts > 0) {
-        document.getElementById("timer").innerHTML = minutes + "分" + seconds + "秒";
+        document.getElementById("timer").innerHTML = (minutes + "分" + seconds + "秒");
       } else {
-        document.getElementById("timer").innerHTML = seconds + "秒";
+        document.getElementById("timer").innerHTML = (seconds + "秒");
       }
 
 
-      // If the count down is finished, write some text
-      // if (distance < 0) {
-      //   clearInterval(x);
-      //   document.getElementById("timer").innerHTML = "EXPIRED";
-      // }
-    }, 1000);}
-    }, 1000);
-  
+    // If the count down is finished, write some text
+    // if (distance < 0) {
+    //   clearInterval(x);
+    //   document.getElementById("timer").innerHTML = "EXPIRED";
+    // }
+    }
+  , 1000);
+}
