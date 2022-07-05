@@ -117,8 +117,9 @@ document.addEventListener('DOMContentLoaded',function(){
             element.insertAdjacentElement("beforeend", next);
             element.insertAdjacentElement("beforeend", nextlin);
         }
+        var footer = document.createElement('footer');
+        footer.className=("site-footer");
+        element.insertAdjacentElement("beforeend", footer);
         };
-    var footer = document.createElement('footer');
-    footer.className=("site-footer");
-    element.insertAdjacentElement("beforeend", footer);
+    
     })
