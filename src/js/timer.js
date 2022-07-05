@@ -1,15 +1,11 @@
-setTimeout(function(){
+document.addEventListener('DOMContentLoaded',function(){
   var divc = document.createElement('div');
   divc.id=("divc")
-  console.log(divc)
   var h1 = document.createElement('h1');
   h1.innerHTML=("口嗨累計時間")
-  console.log(h1)
   var p=document.createElement('p');
   p.id=("timer")
-  
   var element2 = document.getElementById("content");
-  console.log(element2)
   element2.insertAdjacentElement("afterend", divc);
   divc.insertAdjacentElement("afterbegin",h1)
   h1.insertAdjacentElement("beforeend",p)
@@ -54,7 +50,6 @@ setTimeout(function(){
         if (hours < 10){
           hours = ("0"+hours)
         }
-        console.log(seconds)
         if (days > 0) {
           // Display the result in the element with id="timer"
           document.getElementById("timer").innerHTML = (days + "天" + hours + "小時"
@@ -77,4 +72,4 @@ setTimeout(function(){
       }
     , 1000);
   }
-},3000) 
+}) 
