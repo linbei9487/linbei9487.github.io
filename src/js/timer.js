@@ -7,7 +7,7 @@ var link = document.createElement('link');
 // set the attributes for link element
 link.rel = 'stylesheet';
 link.type = 'text/css';
-link.href = '/src/css/counterdown.css';
+link.href = '/src/css/countdown.css';
 // Append link element to HTML head
 head.appendChild(link);
 
