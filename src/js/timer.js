@@ -1,6 +1,4 @@
 setTimeout(function(){
-  var element2 = document.getElementById("content");
-  console.log(element2)
   var divc = document.createElement('div');
   divc.id=("divc")
   console.log(divc)
@@ -9,7 +7,9 @@ setTimeout(function(){
   console.log(h1)
   var p=document.createElement('p');
   p.id=("timer")
-
+  
+  var element2 = document.getElementById("content");
+  console.log(element2)
   element2.insertAdjacentElement("afterend", divc);
   divc.insertAdjacentElement("afterbegin",h1)
   h1.insertAdjacentElement("beforeend",p)
