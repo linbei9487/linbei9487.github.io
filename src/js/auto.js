@@ -18,6 +18,13 @@ var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github
         element.insertAdjacentElement("afterbegin", perlin);
         element.insertAdjacentElement("afterbegin", previous);
     }
+    var toptxt = document.createElement('p');
+        toptxt.innerHTML =((data2.toptxt));
+        toptxt.id = ("toptxt");    
+    if ((data2.toptxt)===""){           
+    }else{
+        element.insertAdjacentElement("beforeend", toptxt);
+    }
     // console.log((data2.episode.length))
     for (step=0; step < (data2.episode.length) ; step++){
         var tit = document.createElement('h1');
