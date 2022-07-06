@@ -19,3 +19,6 @@
     vertical-align: middle;
     color: rgba(0, 0,0, 0.6);
 }
+#loadingout #loading img{
+    width: auto;
+}
