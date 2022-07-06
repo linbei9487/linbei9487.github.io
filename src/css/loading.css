@@ -22,3 +22,7 @@
 #loadingout #loading img{
     width: auto;
 }
+
+#jsonindex{
+    display: none;
+}
