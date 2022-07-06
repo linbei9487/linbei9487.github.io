@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded',function(){
   element2.insertAdjacentElement("afterend", divc);
   divc.insertAdjacentElement("afterbegin",h1)
   h1.insertAdjacentElement("beforeend",p)
+  document.getElementById("timer").innerHTML = ( "?天?小時?分?秒");
   var requestURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/countdown.json"
   var request = new XMLHttpRequest();
   request.open('GET', requestURL);
