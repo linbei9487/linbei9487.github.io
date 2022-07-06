@@ -12,8 +12,12 @@ link.href = '/src/css/btn.css';
 head.appendChild(link);
 link.onload = cssdone
 function cssdone() {
-
-  document.addEventListener('DOMContentLoaded', function () {
+  if (document.readyState == 'loading') {
+    document.addEventListener('DOMContentLoaded', work);
+  } else {
+    work();
+  }
+  function work() {
     var btn1 = document.createElement('button');
     btn1.id = ("buttontop");
     btn1.className = "myBtn";
@@ -55,5 +59,5 @@ function cssdone() {
       document.body.scrollTop = document.body.scrollHeight;
       document.documentElement.scrollTop = document.documentElement.scrollHeight;
     }
-  })
+  }
 }

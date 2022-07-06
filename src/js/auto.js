@@ -19,7 +19,7 @@ function cssdone() {
     // request.responseType = 'json';
     eplink.send();
     eplink.onload = function () {
-        var epjson = JSON.parse(request.responseText);
+        var epjson = JSON.parse(eplink.responseText);
         var epjsdiv = parseInt(document.getElementById("jsonindex").innerHTML);
         var loadingout = document.createElement('div');
         loadingout.id = ("loadingout")
@@ -34,7 +34,12 @@ function cssdone() {
         document.getElementById("loadingout").insertAdjacentElement("afterbegin", loading)
         document.getElementById("loading").insertAdjacentElement("afterbegin", loadtxt)
         document.getElementById("loading").insertAdjacentElement("beforeend", loadgif)
-        document.addEventListener('DOMContentLoaded', function () {
+        if (document.readyState == 'loading') {
+            document.addEventListener('DOMContentLoaded', work);
+        } else {
+            work();
+        }
+        function work() {
             // Get episode list
             var requestURL = (epjson.getlink[epjsdiv].link);
             var request = new XMLHttpRequest();
@@ -170,6 +175,6 @@ function cssdone() {
                 }
             };
 
-        })
+        }
     }
 }

@@ -12,7 +12,12 @@ link.href = '/src/css/countdown.css';
 head.appendChild(link);
 link.onload = cssdone
 function cssdone() {
-  document.addEventListener('DOMContentLoaded', function () {
+  if (document.readyState == 'loading') {
+    document.addEventListener('DOMContentLoaded', work);
+  } else {
+    work();
+  }
+  function work() {
     var divc = document.createElement('div');
     divc.id = ("divc")
     var h1 = document.createElement('h1');
@@ -87,5 +92,5 @@ function cssdone() {
       }
         , 1000);
     }
-  })
+  }
 }
