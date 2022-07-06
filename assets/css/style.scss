@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
+@import "{{ site.theme }}";
 
-a.visited {
+a:visited {
     color:brown;
 }
