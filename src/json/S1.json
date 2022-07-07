@@ -1,136 +1,398 @@
 {
+    "season":"1",
+    "pre":"",
+    "next":"/pony/G4/S2",
+    "toptxt":"",
     "episode" :[
     {
-        "index":"1" ,        
-        "link": "https://vlog.xuite.net/embed/dldkaFJ6LTM5ODM2NjEuZmx2?ar=0&as=0",
-        "pw" :"0966"
+        "index":"01" , 
+        "name" :"Friendship is Magic, part 1",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/b/b5/Opening_Book_S01E01.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/7/7f/Twilight_hot1_S01E01.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/3/32/Twilight_hot2_S01E01.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/2/28/Pinkie_Pie_excited_S01E01.png/revision/latest",
+        "textend":"好好記得這張他媽的圖(是Derpy阿)",
+        "link":"https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_2.html",
+        "pw" :"0966",
+        "vid":"https://vlog.xuite.net/embed/dldkaFJ6LTM5ODM2NjEuZmx2?ar=0&as=0",
+        "after":""
         
     },
     {
-        "index":"2" ,        
-        "link": "https://vlog.xuite.net/embed/S0tlenhhLTM5ODM2NjIuZmx2?ar=0&as=0",
-        "pw" :"7934"
-      
+        "index":"02" , 
+        "name" :"Friendship is Magic, part 2",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/6/65/Twilight_screams_while_freefalling_S1E02.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/3/3d/Manticore_licking_Fluttershy%27s_mane_S1E02.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/b/bd/Twilight_curled_up_Elements_of_Harmony_S1E02.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/e/e9/Pinkie_Pie_a_party_S01E02.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_6.html",
+        "pw" :"7934",
+        "vid":"https://vlog.xuite.net/embed/S0tlenhhLTM5ODM2NjIuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"3" ,        
-        "link": "https://vlog.xuite.net/embed/VnlidkNKLTM5OTkyNzEuZmx2?ar=0&as=0",
-        "pw" :"2070"
+        "index":"03" , 
+        "name" :"The Ticket Master",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/c/ce/Rainbow_being_pulled_away_S1E3.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/e/e4/Applejack_and_Rainbow_Dash_hoof_wrestling_S1E03.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/d/d9/Rain_drenching_Twilight_S1E3.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/f/fc/Rarity_wet_S01E03.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic_14.html",
+        "pw" :"2070",
+        "vid":"https://vlog.xuite.net/embed/VnlidkNKLTM5OTkyNzEuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"4" ,        
-        "link": "https://vlog.xuite.net/embed/djdSSDJyLTQwMjcxNTUuZmx2?ar=0&as=0",
-        "pw" :"7892"
+        "index":"04" , 
+        "name" :"Applebuck Season",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/1/14/Successful_Applejack_and_Winona_S1E04.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/5/56/Applejack_take_four_S1E04.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/8/85/Applejack_makes_a_face_when_Pinkie_asks_for_wheat_germ_S1E4.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/2/22/Applejack_upside_down_S01E04.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2011/11/my-little-pony-friendship-is-magic.html",
+        "pw" :"7892",
+        "vid":"https://vlog.xuite.net/embed/djdSSDJyLTQwMjcxNTUuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"5" ,        
-        "link": "https://vlog.xuite.net/embed/cUY1UDI1LTQwNTc4NzcuZmx2?ar=0&as=0",
-        "pw" :"7900"
+        "index":"05" , 
+        "name" :"Griffon the Brush Off",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/3/32/Rainbow_Dash_crashes_into_a_mountain_S01E05.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/5/5c/Celestia_scroll_rain_S1E05.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/4/42/Gilda_grabs_Pinkie_by_the_neck_S1E05.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/e/ed/Pinkie_Pie_and_Rainbow_Dash_Shock_S1E5.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2011/12/my-little-pony-friendship-is-magic_9.html",
+        "pw" :"7900",
+        "vid":"https://vlog.xuite.net/embed/cUY1UDI1LTQwNTc4NzcuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"6" ,        
-        "link": "https://vlog.xuite.net/embed/eFFUbmRULTQwNzUwNDcuZmx2?ar=0&as=0",
-        "pw" :"9823"
+        "index":"06" , 
+        "name" :"Boast Busters",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/4/47/Trixie_boasting_S1E06.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/e/e3/Applejack_tied_up_S1E06.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/a/a6/Trixie_screaming_S1E06.png/revision/lates",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/4/49/Twilight_utterly_exasperated_S1E06.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2011/12/my-little-pony-friendship-is-magic_16.html",
+        "pw" :"9823",
+        "vid":"https://vlog.xuite.net/embed/eFFUbmRULTQwNzUwNDcuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"7" ,        
-        "link": "https://vlog.xuite.net/embed/Qjl5S0lQLTQwOTM0NTUuZmx2?ar=0&as=0",
-        "pw" :"2390"
+        "index":"07" , 
+        "name" :"Dragonshy",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/7/73/Fluttershy_bringing_fish_to_ferrets_S1E07.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/d/d4/A_grumpy_Rainbow_Dash_S01E07.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/a/ad/Pinkie_Pie_playing_with_the_rubber_chicken_S1E7.gif/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/2/2b/Ponies_knocked_out_S01E07.png/revision/latest",
+        "textend":"STRIKE",
+        "link":"https://hdx3.blogspot.com/2011/12/my-little-pony-friendship-is-magic_23.html",
+        "pw" :"2390",
+        "vid":"https://vlog.xuite.net/embed/Qjl5S0lQLTQwOTM0NTUuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"8" ,        
-        "link": "https://vlog.xuite.net/embed/SjR0Wkt6LTQxMjczODguZmx2?ar=0&as=0",
-        "pw" :"2039"
+        "index":"08" , 
+        "name" :"Look Before You Sleep",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/a/a2/Sweetie_Drops_and_Derpy_clearing_branches_S01E08.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/8/8d/Applejack_misuses_the_hose_S1E08.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/5/5b/Applejack_chewing_S1E8.gif/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/a/a3/Twilight_hit_with_another_pillow_S1E08.png/revision/latest",
+        "textend":"DERPY!!!",
+        "link":"https://hdx3.blogspot.com/2011/12/my-little-pony-friendship-is-magic.html",
+        "pw" :"2039",
+        "vid":"https://vlog.xuite.net/embed/SjR0Wkt6LTQxMjczODguZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"9" ,        
-        "link": "https://vlog.xuite.net/embed/QWlMZjEzLTQxNzIwMjAuZmx2?ar=0&as=0",
-        "pw" :"4585"
+        "index":"09" , 
+        "name" :"Bridle Gossip",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/d/d2/Twilight_an_allergy_S1E09.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/4/47/Rainbow_Dash_smashing_through_door_S1E09.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/0/01/Rainbow_Dash_Upside_Down_S1E09.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/4/4e/Applejack_and_Rainbow_flying_toward_Zecora%27s_hut_S1E09.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/01/my-little-pony-friendship-is-magic_6.html",
+        "pw" :"4585",
+        "vid":"https://vlog.xuite.net/embed/QWlMZjEzLTQxNzIwMjAuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"10" ,        
-        "link": "https://vlog.xuite.net/embed/UjlIbzRjLTQyNzI0NDguZmx2?ar=0&as=0",
-        "pw" :"6457"
+        "index":"10" , 
+        "name" :"Swarm of the Century",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/2/27/Pinkie_Pie_licks_cream_beard_S1E10.gif/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/5/5d/Swarm_flying_past_Twilight%2C_Rarity_and_Applejack_S01E10.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/a/a7/Rainbow_thrown_against_a_tree_S01E10.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/a/a9/Pinkie_Pie_trombone_outro_S1E10.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/01/my-little-pony-friendship-is-magic_13.html",
+        "pw" :"6547",
+        "vid":"https://vlog.xuite.net/embed/UjlIbzRjLTQyNzI0NDguZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"11" ,        
-        "link": "https://vlog.xuite.net/embed/eTRQRVpQLTQ0MTg3MTYuZmx2?ar=0&as=0",
-        "pw" :"1237"
+        "index":"11" , 
+        "name" :"Winter Warp up",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/6/65/Twilight_with_birds_S1E11.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/9/9c/Snow_covered_Spike_and_Twilight_S1E11.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/c/c4/Twilight%27s_plan_backfires_S1E11.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/3/37/Twilight_running_with_beehive_on_her_head_S1E11.png/revision/latest",
+        "textend":"Hmmmmm....",
+        "link":"https://hdx3.blogspot.com/2012/01/my-little-pony-friendship-is-magic_20.html",
+        "pw" :"1237",
+        "vid":"https://vlog.xuite.net/embed/eTRQRVpQLTQ0MTg3MTYuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"12" ,        
-        "link": "https://vlog.xuite.net/embed/NVlPZGtvLTQ0MzIzODkuZmx2?ar=0&as=0",
-        "pw" :"2784"
+        "index":"12" , 
+        "name" :"Call of the Cutie",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/9/97/Apple_Bloom_jumping_for_the_apple_S1E12.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/4/40/Apple_Bloom_doing_karate_S1E12.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/c/cc/Pinkie_Pie_happily_singing_the_cupcake_song_S1E12.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/b/bb/Scootaloo_commenting_on_Diamond_Tiara_S1E12.png/revision/latest",
+        "textend":"推薦:<a href='https:\\www.youtube.com/watch?v=682pneYoP0c'>PinkieBrew</a>",
+        "link":"https://hdx3.blogspot.com/2012/01/my-little-pony-friendship-is-magic.html",
+        "pw" :"2784",
+        "vid":"https://vlog.xuite.net/embed/NVlPZGtvLTQ0MzIzODkuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"13" ,        
-        "link": "https://vlog.xuite.net/embed/dlBrYWRmLTQ0NDczNTkuZmx2?ar=0&as=0",
-        "pw" :"4638"
+        "index":"13" , 
+        "name" :"Fall Weather Friends",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/c/c7/Rainbow_Dash_gasping_S1E13.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/3/30/Applejack_dirty_S01E13.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/7/77/Rainbow_Dash_wins_Iron_Pony_competition_S1E13.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/c/cb/Rainbow_laughing_S1E13.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/02/my-little-pony-friendship-is-magic_3.html",
+        "pw" :"4638",
+        "vid":"https://vlog.xuite.net/embed/dlBrYWRmLTQ0NDczNTkuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"14" ,        
-        "link": "https://vlog.xuite.net/embed/OTZRbGJ2LTQ0Njc5NjMuZmx2?ar=0&as=0",
-        "pw" :"9582"
+        "index":"14" , 
+        "name" :"Suited For Success",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/2/23/Rainbow_Dash_%27the_what_now%27_S1E14.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/1/12/Rarity_being_overwhelmed_with_pressure_S1E14.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/b/b8/Rainbow_Dash_wants_her_dress_to_be_cool_S1E14.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/6/64/It%27s_all_in_the_presentation%21_S1E14.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/02/my-little-pony-friendship-is-magic_10.html",
+        "pw" :"9582",
+        "vid":"https://vlog.xuite.net/embed/OTZRbGJ2LTQ0Njc5NjMuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"15" ,        
-        "link": "https://vlog.xuite.net/embed/cExmYjRDLTQ0ODQ5NDcuZmx2?ar=0&as=0",
-        "pw" :"8128"
+        "index":"15" , 
+        "name" :"Feeling Pinkie Keen",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/1/15/Twilight_freaking_out_S1E15.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/a/a1/Twilight_anvil_derp_S01E15.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/8/8b/For_Shame_Derpy_S1E15.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/e/ee/Cropped_Animated_Twilight_Rapidash_S1E15.gif/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/02/my-little-pony-friendship-is-magic_17.html",
+        "pw" :"8128",
+        "vid":"https://vlog.xuite.net/embed/cExmYjRDLTQ0ODQ5NDcuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"16" ,        
-        "link": "https://vlog.xuite.net/embed/YzZEM3N1LTQ0OTkyNDYuZmx2?ar=0&as=0",
-        "pw" :"7777"
+        "index":"16" , 
+        "name" :"Sonic Rainboom",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/4/47/Fluttershy_deep_breath_S01E16.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/e/eb/Fluttershy_final_yay_S1E16.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/c/ca/Derpy_flying_around_in_Cloudsdale_cropped_2_S1E16.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/f/f0/Rainbow_Dash_performing_a_sonic_rainboom_S1E16.gif/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/02/my-little-pony-friendship-is-magic.html",
+        "pw" :"7777",
+        "vid":"https://vlog.xuite.net/embed/YzZEM3N1LTQ0OTkyNDYuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"17" ,        
-        "link": "https://vlog.xuite.net/embed/V1hyUFhILTQ1MjE0NTYuZmx2?ar=0&as=0",
-        "pw" :"9265"
+        "index":"17" , 
+        "name" :"Stare Master",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/0/0c/Cutie_Mark_Crusaders_yay_S1E17.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/4/4f/Fluttershy_NO_S01E17.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/6/6b/Twilight_Sparkle_stone_S1E17.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/1/19/Fluttershy_Stare_S01E17.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_2.html",
+        "pw" :"9265",
+        "vid":"https://vlog.xuite.net/embed/V1hyUFhILTQ1MjE0NTYuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"18" ,        
-        "link": "https://vlog.xuite.net/embed/T29kaG9lLTQ1MzczODAuZmx2?ar=0&as=0",
-        "pw" :"7078"
+        "index":"18" , 
+        "name" :"The Show Stoppers",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/6/60/Applejack_crashing_down_S1E18.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/0/01/Apple_Bloom_stick_to_punches_and_kicks_S1E18.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/3/39/Scootaloo_slamming_her_head_on_the_piano_S01E18.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/c/c1/Apple_Bloom_trips_S1E18.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_9.html",
+        "pw" :"7078",
+        "vid":"https://vlog.xuite.net/embed/T29kaG9lLTQ1MzczODAuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"19" ,        
-        "link": "https://vlog.xuite.net/embed/NnVsSnZnLTQ1NjEwMjYuZmx2?ar=0&as=0",
-        "pw" :"6012"
+        "index":"19" , 
+        "name" :"A Dog and Pony show",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/a/ad/Rarity%27s_signature_distressed_move_S1E19.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/4/4a/Main_crew_go_down_the_dog_hole_S1E19.gif/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/e/e5/Twilight_really_Spike_S1E19.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/3/35/Spike_and_Twilight_breaking_the_door_S1E19.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_16.html",
+        "pw" :"6012",
+        "vid":"https://vlog.xuite.net/embed/T29kaG9lLTQ1MzczODAuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"20" ,        
-        "link": "https://vlog.xuite.net/embed/bGxnMVk3LTQ1NzQ1MzYuZmx2?ar=0&as=0",
-        "pw" :"3206"
+        "index":"20" , 
+        "name" :"Green Isn't Your Color",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/9/9f/Fluttershy_happy_S1E20.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/b/b9/Twilight_after_poking_her_eye_S1E20.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/4/42/Pinkie_Pie_eating_an_apple_S1E20.gif/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/5/50/Ponies_don%27t_like_Fluttershy%27s_performance_S01E20.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_21.html",
+        "pw" :"https://vlog.xuite.net/embed/bGxnMVk3LTQ1NzQ1MzYuZmx2?ar=0&as=0",
+        "vid":"3206",
+        "after":""
+        
     },
     {
-        "index":"21" ,        
-        "link": "https://vlog.xuite.net/embed/MWcxcWJlLTQ1NzkzMDEuZmx2?ar=0&as=0",
-        "pw" :"6913"
+        "index":"21" , 
+        "name" :"Over a Barrel",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/5/54/Applejack_talks_to_the_tree_S1E21.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/0/08/Rainbow_Dash_hits_a_sign_S01E21.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/2/2f/Applejack_%22BRAEBURN%21%22_S01E21.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/5/59/Pinkie_Pie_Breaking_Fourth_Wall_Looney_Tunes_S1E21.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_21.html",
+        "pw" :"6913",
+        "vid":"https://vlog.xuite.net/embed/MWcxcWJlLTQ1NzkzMDEuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"22" ,        
-        "link": "https://vlog.xuite.net/embed/T0NXWkMyLTQ1OTE0ODQuZmx2?ar=0&as=0",
-        "pw" :"6912"
+        "index":"22" , 
+        "name" :"A Bird in the Hoof",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/7/7a/Fluttershy_cutness_overload_S01E22.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/7/72/Rainbow_Dash_making_funny_face_S1E22.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/8/88/Pinkie_Pie_puts_a_pie_to_her_face_S1E22.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/4/47/Twilight_gasps_S01E22.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic_28.html",
+        "pw" :"6912",
+        "vid":"https://vlog.xuite.net/embed/T0NXWkMyLTQ1OTE0ODQuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"23" ,        
-        "link": "https://vlog.xuite.net/embed/SDd3Z29yLTQ2MDE4MDMuZmx2?ar=0&as=0",
-        "pw" :"8304"
+        "index":"23" , 
+        "name" :"The Cutie Mark Chronicles",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/f/fc/ScreamingCrusaders_S01E23.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/b/be/Filly_Applejack_in_Manehattan_3_S01E23.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/7/74/Filly_Fluttershy_amazed_by_her_surroundings_S1E23.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/6/69/First_Pinkie_Pie_smile_S1E23.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/03/my-little-pony-friendship-is-magic.html",
+        "pw" :"8304",
+        "vid":"https://vlog.xuite.net/embed/SDd3Z29yLTQ2MDE4MDMuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"24" ,        
-        "link": "https://vlog.xuite.net/embed/aHozc2lsLTQ2MDkwMjIuZmx2?ar=0&as=0",
-        "pw" :"1728"
+        "index":"24" , 
+        "name" :"Owl's Well That Ends Well",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/7/78/Spike_sneezes_fire_on_the_book_S1E24.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/3/3a/Owlowiscious_flying_past_Twilight_Sparkle%27s_library_S1E24.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/f/f7/Spike_burning_the_quill_S1E24.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/2/25/Frightened_Spike_jumps_on_Twilight%27s_back_S1E24.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_2.html",
+        "pw" :"1728",
+        "vid":"https://vlog.xuite.net/embed/aHozc2lsLTQ2MDkwMjIuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"25" ,        
-        "link": "https://vlog.xuite.net/embed/Q3dIMjVDLTQ2MTgwODQuZmx2?ar=0&as=0",
-        "pw" :"8349"
+        "index":"25" , 
+        "name" :"Party of One",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/b/b2/Pinkie_Pie_invites_Twilight_S1E25.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/1/15/Embedded_in_the_wall_S01E25.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/e/e8/Crazy_Pinkie_Pie_S1E25.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/f/ff/Rainbow_Dash_drags_Pinkie_Pie_to_the_farm_S1E25.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_6.html",
+        "pw" :"8349",
+        "vid":"https://vlog.xuite.net/embed/Q3dIMjVDLTQ2MTgwODQuZmx2?ar=0&as=0",
+        "after":""
+        
     },
     {
-        "index":"26" ,        
-        "link": "https://vlog.xuite.net/embed/ZFBFcW9BLTQ2NTg2OTYuZmx2?ar=0&as=0",
-        "pw" :"7062"
+        "index":"26" , 
+        "name" :"The Best Night Ever",
+        "texttop":"",
+        "img1":"https://static.wikia.nocookie.net/mlp/images/a/af/Pinkie_Pie_trampoline_jump_1_S1E26.png/revision/latest",
+        "img2":"https://static.wikia.nocookie.net/mlp/images/b/bd/Spike_Giddy_up_S1E26.png/revision/latest",
+        "img3":"https://static.wikia.nocookie.net/mlp/images/0/0d/Fluttershy_%22You%27re_going_to_LOVE_ME%21%22_S1E26.png/revision/latest",
+        "img4":"https://static.wikia.nocookie.net/mlp/images/1/19/Fluttershy_caught_in_her_own_trap_S1E26.png/revision/latest",
+        "textend":"",
+        "link":"https://hdx3.blogspot.com/2012/04/my-little-pony-friendship-is-magic_13.html",
+        "pw" :"7062",
+        "vid":"https://vlog.xuite.net/embed/ZFBFcW9BLTQ2NTg2OTYuZmx2?ar=0&as=0",
+        "after":""
+        
     }
 
     ]
