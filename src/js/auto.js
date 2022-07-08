@@ -42,9 +42,7 @@ function cssdone() {
         function work() {
             try {
                 // Get episode list
-                console.log("ok")
                 var requestURL = (epjson.getlink[epjsdiv].link);
-                console.log("ok")
                 var request = new XMLHttpRequest();
                 request.open('GET', requestURL);
                 // request.responseType = 'json';
@@ -78,7 +76,6 @@ function cssdone() {
                         } else {
                             element.insertAdjacentElement("beforeend", toptxt);
                         }
-                        // console.log((data2.episode.length))
                         for (step = 0; step < (data2.episode.length); step++) {
                             var tit = document.createElement('h1');
                             tit.innerHTML = ("S" + (data2.season) + "E" + (data2.episode[step].index));
@@ -193,7 +190,6 @@ function cssdone() {
             catch {
                 document.getElementById("loadtxt").innerHTML = ("載入失敗 5秒後關閉載入畫面")
                 document.querySelector('#loading img').src = ("https:/linbei9487.github.io/img/error.png")
-                console.log("catched")
                 var cdn = 5
                 function countdown() {
                     if (cdn <= 0) {
