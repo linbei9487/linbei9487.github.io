@@ -6,28 +6,44 @@
     background-color: rgba(0, 0, 0, 0.250);
     top: 0px;
     left: 0px;
-    text-align:center;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-#loading{
-    background-color: rgba(255, 255,255, 0.5);
+
+#loading {
+    background-color: rgba(255, 255, 255, 0.5);
     opacity: 1;
-    border-radius:10%
+    border-radius: 10%
 }
-#loadingout #loading h1{
+
+#loadingout #loading h1 {
     vertical-align: middle;
-    color: rgba(0, 0,0, 0.6);
+    color: rgba(0, 0, 0, 0.6);
 }
-#loadingout #loading h2{
+
+#loadingout #loading h2 {
     vertical-align: middle;
-    color: rgba(0, 0,0, 0.6);
+    color: rgba(0, 0, 0, 0.6);
 }
-#loadingout #loading img{
+
+#loadingout #loading img {
     width: auto;
 }
 
-#jsonindex{
+#jsonindex {
     display: none;
+}
+
+#close {
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#close:hover {
+    background-color: #555;
 }
