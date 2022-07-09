@@ -45,7 +45,6 @@ function cssdone() {
                 var requestURL = (epjson.getlink[epjsdiv].link);
                 var request = new XMLHttpRequest();
                 request.open('GET', requestURL);
-                var errcode = 0
                 // request.responseType = 'json';
                 request.send();
                 request.onreadystatechange = function () {
