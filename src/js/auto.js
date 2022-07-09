@@ -48,7 +48,8 @@ function cssdone() {
                 // request.responseType = 'json';
                 request.send();
                 if (request.status != 404) {
-                    throw "404"
+                    // throw "404"
+                    load()
                 } else {
                     load()
                 };
