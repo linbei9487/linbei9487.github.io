@@ -77,6 +77,10 @@ function cssdone() {
                          var data2 = JSON.parse(request.responseText);
                          var step;
                          var element = document.getElementById("content");
+                        // var lastep = document.createElement('a');
+                        // lastep.innerHTML = ("跳至上次觀看")
+                        // lastep.href = ((localStorage.getItem('url'))+"#"+(localStorage.getItem('ep')).toLowerCase());
+                        // lastep.id = ("lastep");
                          var previous = document.createElement('h1');
                          previous.innerHTML = ("回到上一季")
                          var perlin = document.createElement('a');
