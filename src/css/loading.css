@@ -36,14 +36,15 @@
     display: none;
 }
 
-#close {
+.loading {
     background-color: black;
     opacity: 0.5;
     color: white;
     border-radius: 4px;
     cursor: pointer;
+    margin: 10%;
 }
 
-#close:hover {
+.loading:hover {
     background-color: #555;
 }

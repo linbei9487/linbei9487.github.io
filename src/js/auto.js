@@ -237,18 +237,28 @@ function cssdone() {
                                     loadtxt2.innerHTML = (localStorage.getItem('title'))
                                     document.querySelector('#loading img').insertAdjacentElement("beforebegin", loadtxt2);
                                     var btn = document.createElement('btn');
-                                    btn.id = ("close");
-                                    btn.innerHTML = ("close");
-                                    btn.onclick = btnclose
+                                    btn.className = ("loading");
+                                    btn.innerHTML = ("上次進度");
+                                    btn.onclick = btnskip
+                                    var btn2 = document.createElement('btn');
+                                    btn2.className = ("loading");
+                                    btn2.innerHTML = ("關閉頁面");
+                                    btn2.onclick = btnclose
                                     document.querySelector('#loading img').insertAdjacentElement("beforebegin", btn);
+                                    document.querySelector('#loading img').insertAdjacentElement("beforebegin", btn2);
                                     document.querySelector('#loading img').style.display = "none"
                                 }
                             }
                         }
-                        function btnclose() {
+                        function btnskip() {
                             (document.getElementById("loadingout").style.display = "none");
                             window.location.href = (localStorage.getItem('url') + "#" + localStorage.getItem('epanc'))
                         }
+                        function btnclose() {
+                            (document.getElementById("loadingout").style.display = "none");
+
+                        }
+
                     }
                 }
                 function errhandle() {
