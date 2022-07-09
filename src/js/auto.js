@@ -32,7 +32,7 @@ function cssdone() {
          loadtxt.id = ("loadtxt")
          loadtxt.innerHTML = ("載入中" + 0 + "%")
          var loadgif = document.createElement('img');
-         loadgif.src = ("https:/linbei9487.github.io/img/loading.gif")
+         loadgif.src = ("/img/loading.gif")
          document.body.insertAdjacentElement("afterbegin", loadingout)
          document.getElementById("loadingout").insertAdjacentElement("afterbegin", loading)
          document.getElementById("loading").insertAdjacentElement("afterbegin", loadtxt)
@@ -82,11 +82,11 @@ function cssdone() {
                          var perlin = document.createElement('a');
                          perlin.innerHTML = ("點擊此處")
                          perlin.href = ((data2.pre));
-                         perlin.id = ("per");
+                         perlin.id = ("per");                           
                          if ((data2.pre) === "") {
                          } else {
-                             element.insertAdjacentElement("afterbegin", perlin);
-                             element.insertAdjacentElement("afterbegin", previous);
+                             element.insertAdjacentElement("beforeend", previous);
+                             element.insertAdjacentElement("beforeend", perlin);
                          }
                          var toptxt = document.createElement('p');
                          toptxt.innerHTML = ((data2.toptxt));
@@ -218,6 +218,8 @@ function cssdone() {
                                  console.log(get[0], get[1])
                                  localStorage.setItem('ep', get[0].innerHTML)
                                  localStorage.setItem('title', get[1].innerHTML)
+                                 // var path = location.pathname
+                                 // localStorage.setItem('url',window.location.protocol + '//' + window.location.host+path)
                                  // console.log(episode)
                                  console.log("clicked " + (active.id));
                                  window.focus();
@@ -240,38 +242,24 @@ function cssdone() {
                                      loadtxt2.id = ("loadtxt2");
                                      loadtxt2.innerHTML = (localStorage.getItem('title'))
                                      document.querySelector('#loading img').insertAdjacentElement("beforebegin", loadtxt2);
-                                     var loadtxt3 = document.createElement('h2');
-                                     loadtxt3.id = ("loadtxt3");
-                                     loadtxt3.innerHTML = ("5秒後關閉");
-                                     document.querySelector('#loading img').insertAdjacentElement("beforebegin", loadtxt3);
-                                    //  var loadtxt4 = document.createElement('a');
-                                    //  loadtxt4.id = ("loadtxt4");
-                                    //  loadtxt4.innerHTML = ("jump");
-                                    //  loadtxt4.href=("#"+(localStorage.getItem('ep')).toLowerCase())
-                                    //  document.querySelector('#loading img').insertAdjacentElement("beforebegin", loadtxt4);
+                                     var btn = document.createElement('btn');
+                                     btn.id = ("close");
+                                     btn.innerHTML = ("close");
+                                     btn.onclick= btnclose
+                                     document.querySelector('#loading img').insertAdjacentElement("beforebegin", btn);
                                      document.querySelector('#loading img').style.display = "none"
-                                     var cdn = 5
-                                     function countdown() {
-                                         if (cdn <= 0) {
-                                             (document.getElementById("loadingout").style.display = "none");
-                                             clearInterval(x);
-                                         }
-                                         if (cdn != 0) {
-                                             document.getElementById("loadtxt3").innerHTML = (cdn + "秒後關閉")
-                                             cdn = cdn - 1
-                                         }
-                                     }
-                                     var x = setInterval(countdown, 1000);
-
                                  }
                              }
+                         }
+                         function btnclose(){
+                             (document.getElementById("loadingout").style.display = "none");
                          }
 
                      }
                  }
                  function errhandle() {
                      document.getElementById("loadtxt").innerHTML = ("載入失敗 5秒後關閉載入畫面")
-                     document.querySelector('#loading img').src = ("https:/linbei9487.github.io/img/error.png")
+                     document.querySelector('#loading img').src = ("/img/error.png")
                      console.log("catched")
                      var cdn = 5
                      function countdown() {
@@ -292,7 +280,7 @@ function cssdone() {
                  errhandle
                  function errhandle() {
                      document.getElementById("loadtxt").innerHTML = ("載入失敗 5秒後關閉載入畫面")
-                     document.querySelector('#loading img').src = ("https:/linbei9487.github.io/img/error.png")
+                     document.querySelector('#loading img').src = ("/img/error.png")
                      console.log("catched")
                      var cdn = 5
                      function countdown() {
@@ -310,5 +298,4 @@ function cssdone() {
              }
          }
      }
-                
 }
