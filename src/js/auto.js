@@ -16,14 +16,11 @@ function cssdone() {
     var eplinkURL = "https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/json/index.json"
     var eplink = new XMLHttpRequest();
     eplink.open('GET', eplinkURL);
-    console.log("ok")
     // request.responseType = 'json';
     eplink.send();
     eplink.onload = function () {
-        console.log("ok")
         var epjson = JSON.parse(eplink.responseText);
         var epjsdiv = parseInt(document.getElementById("jsonindex").innerHTML);
-        console.log(epjsdiv)
         var loadingout = document.createElement('div');
         loadingout.id = ("loadingout")
         var loading = document.createElement('div');
@@ -45,7 +42,6 @@ function cssdone() {
         function work() {
             try {
                 // Get episode list
-                console.log("ok")
                 var requestURL = (epjson.getlink[epjsdiv].link);
                 var request = new XMLHttpRequest();
                 request.open('GET', requestURL);
@@ -54,7 +50,6 @@ function cssdone() {
                 request.send();
                 request.onreadystatechange = function () {
                     if (request.readyState === 4) {
-                        console.log("request" + request.status)
                         if (request.status != 404) {
                             load()
                         } else {
@@ -64,7 +59,6 @@ function cssdone() {
                     }
                 };
                 function load() {
-                    console.log("load")
                     if (document.readyState == 'loading') {
 
                         request.onload = loaded()
@@ -260,7 +254,6 @@ function cssdone() {
                 function errhandle() {
                     document.getElementById("loadtxt").innerHTML = ("載入失敗 5秒後關閉載入畫面")
                     document.querySelector('#loading img').src = ("/img/error.png")
-                    console.log("catched")
                     var cdn = 5
                     function countdown() {
                         if (cdn <= 0) {
