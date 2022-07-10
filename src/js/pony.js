@@ -8,6 +8,6 @@ function work() {
     } else {
         document.getElementById("episode").innerHTML = (localStorage.getItem('ep'));
         document.getElementById("title").innerHTML = (localStorage.getItem('title'));
-        document.getElementById("link").herf = (localStorage.getItem('url') + "#" + localStorage.getItem('epanc'));
+        document.getElementById("link").href = (localStorage.getItem('url') + "#" + localStorage.getItem('epanc'));
     }
 }

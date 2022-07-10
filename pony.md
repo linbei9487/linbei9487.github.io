@@ -8,7 +8,7 @@ filename: pony
 <h2 id="title">Friendship is Magic, part 1</h2>
 <br>
 <br>
-<a id="link" herf="https://linbei9487.github.io/pony/G4/S1#tit0"> 點擊此處</a>
+<a id="link" href="https://linbei9487.github.io/pony/G4/S1#tit0"> 點擊此處</a>
 
 
 
