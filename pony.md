@@ -2,6 +2,8 @@
 title: 進入小馬國
 layout: pony
 filename: pony
+buttontxt: 
+buttonurl:
 --- 
 
 <h1 id="episode">S1E01</h1>

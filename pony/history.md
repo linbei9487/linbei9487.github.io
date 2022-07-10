@@ -1,7 +1,9 @@
 ---
 title: Twilight's Library
-layout: back
+layout: backpony
 filename: ponyhistory
+buttontxt: 
+buttonurl:
 --- 
 # 即時集數
 [點我](https://linbei9487.github.io/pony)

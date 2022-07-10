@@ -2,6 +2,8 @@
 title: Sunny's Journal Another Generation
 layout: backpony
 filename: ponyG5AnG
+buttontxt: Back to Twilight's Library
+buttonurl: https://linbei9487.github.io/pony/history
 --- 
 # Another Generation
 ## 生肉警告
