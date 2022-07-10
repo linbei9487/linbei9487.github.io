@@ -17,6 +17,6 @@ filename: pony
 
 
 <h1>找不到集數?</h1>
-<a herf="https://linbei9487.github.io/pony/history"> 點我看歷史集數</a>
+<a href="https://linbei9487.github.io/pony/history"> 點我看歷史集數</a>
 
 <script src="/src/js/pony.js"></script>    
