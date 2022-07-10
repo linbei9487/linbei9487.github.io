@@ -227,7 +227,7 @@ function cssdone() {
                             sta = sta.toFixed(2);
                             document.getElementById("loadtxt").innerHTML = ("載入中" + sta + "%");
                             if (sta == 100) {
-                                if ((localStorage.getItem('ep') == null) && (localStorage.getItem('title') == null)) {
+                                if ((localStorage.getItem('ep') == null) || (localStorage.getItem('title') == null) ||(localStorage.getItem('epanc') == null) ||(localStorage.getItem('url') == null)) {
                                     document.getElementById("loadingout").style.display = "none"
                                 } else {
                                     document.getElementById("loadtxt").innerHTML = ("上次進度" + localStorage.getItem('ep'));
