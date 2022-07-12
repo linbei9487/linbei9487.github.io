@@ -3,7 +3,7 @@
 
 "use strict";
 
-const dbUrl = "../json/ponyplayer/gen.json";
+const dbUrl = "/src/json/ponyplayer/gen.json";
 var jsonObj;
 var jsonObj2;
 
