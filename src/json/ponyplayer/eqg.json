@@ -1,0 +1,171 @@
+{
+	"page": {
+		"pageTitle": " - Ember's MLP:EqG Archive"
+	},
+	"series": {
+		"titleFull": "My Little Pony: Equestria Girls",
+		"titleAbbrev": "MLP:EqG",
+		"vidPath": "https://static.heartshine.xyz/g4-eqg/",
+		"vttPath": "https://static.heartshine.xyz/g4-eqg/vtt/",
+		"vidRes": [
+			480,
+			720,
+			1080
+		],
+		"vidRatio": 1.7777,
+		"seasons": [
+			{
+				"seasNum": 1,
+				"seasName": "Movies",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "Equestria Girls",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Rainbow Rocks",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Friendship Games",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							}
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Legend of the  Everfree",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 2,
+				"seasName": "Tales of Canterlot High",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "Dance Magic",
+						"epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Movie Magic",
+                                                "epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Mirror Magic",
+                                                "epSubs": [
+							{
+								"lang": "en",
+								"label": "English"
+							},
+							{
+								"lang": "fr",
+								"label": "Français"
+							},
+							{
+								"lang": "es",
+								"label": "Español"
+							}
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 3,
+				"seasName": "Specials",
+				"episodes":[
+					{
+						"epNum": 1,
+						"epTitle": "Forgotten Friendship"
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Rollercoaster of Friendship"
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Spring Breakdown"
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Sunset's Backstage Pass"
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Holidays Unwrapped"
+					}
+				]
+			}
+		]
+	}
+}

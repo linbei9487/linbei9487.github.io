@@ -1,0 +1,189 @@
+{
+	"page": {
+		"pageTitle": " - Ember's MLP G3 Archive"
+	},
+	"series": {
+		"titleFull": "My Little Pony",
+		"titleAbbrev": "MLP G3",
+		"vidPath": "https://static3.heartshine.xyz/g3/",
+		"vttPath": "https://static3.heartshine.xyz/g3/vtt/",
+		"vidRes": [
+			480
+		],
+		"vidRatio": 1.3333,
+		"seasons": [
+			{
+				"seasNum": 1,
+				"seasName": "Early Releases (2003-2007)",
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "A Charming Birthday"
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Dancing in the Clouds"
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Friends are Never Far Away"
+					},
+					{
+						"epNum": 4,
+						"epTitle": "A Very Minty Christmas"
+					},
+					{
+						"epNum": 5,
+						"epTitle": "The Princess Promenade"
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Pinkie Pie and the Ladybug Jamboree"
+					},
+					{
+						"epNum": 7,
+						"epTitle": "The Runaway Rainbow"
+					},
+					{
+						"epNum": 8,
+						"epTitle": "Greetings from Unicornia"
+					},
+					{
+						"epNum": 9,
+						"epTitle": "Come Back, Lily Lightly"
+					},
+					{
+						"epNum": 10,
+						"epTitle": "Two for the Sky"
+					},
+					{
+						"epNum": 11,
+						"epTitle": "Positively Pink"
+					}
+				]
+			},
+			{
+				"seasNum": 2,
+				"seasName": "2008 Revamp",
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "Pinkie Pie's Special Day"
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Starsong and the Magic Dance Shoes"
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Rainbow Dash's Special Day",
+						"vidRes": [
+							480,
+							720
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 3,
+				"seasName": "2009 Revamp (G3.5)",
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "Twinkle Wish Adventure"
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Twinkle Wish Adventure HD",
+						"vidRatio": 1.7777,
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 4,
+				"seasName": "Meet the Ponies",
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "Pinkie Pie: Party Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					},
+					{
+						"epNum": 2,
+						"epTitle": "Rainbow Dash: Hat Fashion Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					},
+					{
+						"epNum": 3,
+						"epTitle": "Cheerilee: Pajama Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					},
+					{
+						"epNum": 4,
+						"epTitle": "Scootaloo: Outdoor Play Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					},
+					{
+						"epNum": 5,
+						"epTitle": "Starsong: Dance & Sing Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					},
+					{
+						"epNum": 6,
+						"epTitle": "Toola Roola: Mixed-Up Painting Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					},
+					{
+						"epNum": 7,
+						"epTitle": "Sweetie-Belle: New Cake Party",
+						"vidRes": [
+							480,
+							720,
+							1080
+						]
+					}
+				]
+			},
+			{
+				"seasNum": 5,
+				"seasName": "My Little Pony Live",
+				"episodes": [
+					{
+						"epNum": 1,
+						"epTitle": "The World's Biggest Tea Party",
+						"vidRatio": 1.7777
+					}
+				]
+			}
+		]
+	}
+}
