@@ -177,6 +177,7 @@ video::cue {
 	background: transparent;
 	opacity: 0.5;
 	font: 1.4em CelestiaRedux, sans-serif bold;
+	font-family: CelestiaRedux;
 }
 
 @media only screen and (min-width: 720px) {
