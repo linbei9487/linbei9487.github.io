@@ -2,27 +2,27 @@
     "Gen":[
         {
             "name":"Gen5",
-            "url": "./db.json"
+            "url": "/src/json/ponyplayer/db.json"
         },
         {
             "name":"Gen4 FIM",
-            "url": "./fim.json"
+            "url": "/src/json/ponyplayer/fim.json"
         },
         {
             "name":"Gen4 EQG",
-            "url": "./eqg.json"
+            "url": "/src/json/ponyplayer/eqg.json"
         },
         {
             "name":"Gen4 PL",
-            "url": "./pl.json"
+            "url": "/src/json/ponyplayer/pl.json"
         },
         {
             "name":"Gen3",
-            "url": "./g3.json"
+            "url": "/src/json/ponyplayer/g3.json"
         },
         {
             "name":"Gen1",
-            "url": "./g1.json"                
+            "url": "/src/json/ponyplayer/g1.json"                
         }
     ]
 }
