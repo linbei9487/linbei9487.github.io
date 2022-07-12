@@ -16,10 +16,10 @@ includefoot: credit.html
 	<p id="jsCheck">If you can see this, you need to enable JavaScript!<br></p>
 	<label for="playerRes">Change resolution</label>
 	<select id="playerRes" onchange="setPlayerRes(this.value);"></select>
-	<p>Dark Mode:&nbsp;</p>
+	<p>Dark Mode:</p>
 	<button id="lightsOut" value="0" onclick="turnOutTheLights(this);">Off</button>
 	<br>
-	<p>Change Episode:&nbsp;<br class="mobileBreak"></p>
+	<p>Change Episode:<br class="mobileBreak"></p>
 	<label for="genList">Select Generation</label>
 	<select id="genList" onchange="seasList(this.value);"></select>
 	<label for="seasList">Select season</label>
