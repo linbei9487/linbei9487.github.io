@@ -20,7 +20,8 @@ html{
 	height:100vh;
 }
 body{
-	background: #455a64 url('https://static.manebooru.art/img/2020/8/7/4000355/thumb.png') bottom right/100px no-repeat;
+	/* background: #455a64 url('https://static.manebooru.art/img/2020/8/7/4000355/thumb.png') bottom right/100px no-repeat; */
+	background: #455a64;
 	box-shadow:0px 0px 20px 5px #718792 inset;
 	margin:0px;
 	height:auto;
@@ -117,6 +118,7 @@ video::cue{
 	-1px 1px 2px #000,
 	1px 1px 2px #000;
 	background:transparent;
+	opacity: 0.5;
 	font:1.4em MontserratRegular, sans-serif bold;
 }
 @media only screen and (min-width: 720px){
