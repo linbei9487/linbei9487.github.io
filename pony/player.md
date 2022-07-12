@@ -1,6 +1,6 @@
 ---
 title: Pony Player
-layout: backpony
+layout: ponyplayer
 filename: ponyplayer
 buttontxt: Back to Twilight's Library
 buttonurl: https://linbei9487.github.io/pony/history
