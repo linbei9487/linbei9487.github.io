@@ -4,7 +4,7 @@ layout: ponyplayer
 filename: ponyplayer
 buttontxt: Back to Twilight's Library
 buttonurl: https://linbei9487.github.io/pony/history
-includehead: playerhead.html
+includehead: 
 includefoot: credit.html
 --- 
 <h1 id="epName"></h1>
