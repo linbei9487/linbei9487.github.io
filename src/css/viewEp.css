@@ -67,6 +67,8 @@ p {
 p#disclaimer {
 	font-size: 16px;
 	text-align: center;
+	display: block;
+	margin-bottom: 0%;
 }
 
 p#credit {
