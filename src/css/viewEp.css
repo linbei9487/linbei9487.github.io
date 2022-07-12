@@ -55,12 +55,19 @@ body{
 body.lightsOut{
 	background-color:#13191c;
 }
+.btn {
+    letter-spacing: 3px;
+	padding:0.25rem 0.5rem
+}
 p{
 	color:#fff;
 	display:inline;
-	font:1em Equestria, sans-serif;
+	font:24px Equestria, sans-serif;
 	margin:0px;
 	text-shadow:1px 1px 2px #000;
+}
+#disclaimer{
+	font-size: 16px;
 }
 p#credit{
 	display:block;
@@ -102,12 +109,17 @@ button, select{
 	box-shadow:0px 4px 8px #222;
 	color:#FFF;
 	display:inline;
-	font:1em Equestria-Bold, sans-serif;
+	font:22px Equestria-Bold, sans-serif;
 	margin:2px 0px 2px 0px;
 	padding:2px;
 	text-align:center;
 	text-shadow:1px 1px 2px #000;
 	transition-duration:0.25s;
+	letter-spacing: 3px;
+}
+.btn{
+	font-size:16px;
+	letter-spacing: 3px;
 }
 label{
 	display:none;
