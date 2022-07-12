@@ -39,6 +39,9 @@ p{
 	margin:0px;
 	text-shadow:1px 1px 2px #000;
 }
+p#credit{
+	display:block;
+}
 p#smol{
 	font-size:0.6em;
 }
