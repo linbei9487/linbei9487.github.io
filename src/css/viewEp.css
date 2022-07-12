@@ -16,6 +16,27 @@
 		url('https://static.heartshine.xyz/woff/montserrat-regular.woff') format('woff');
 	font-display: swap;
 }
+@font-face {
+	font-family: 'Equestria';
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria.otf') format('otf');
+	font-display: block;
+}
+@font-face {
+	font-family: 'Equestria-Bold';
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Bold.otf') format('otf');
+	font-display: block;
+}
+@font-face {
+	font-family: 'Equestria-Bold-Italic';
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Bold-Italic.otf') format('otf');
+
+	font-display: block;
+}
+@font-face {
+	font-family: 'Equestria-Italic';
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Italic.otf') format('otf');
+	font-display: block;
+}
 html{
 	height:100vh;
 }
@@ -28,6 +49,7 @@ body{
 	min-height:100vh;
 	padding:0px;
 	transition-duration:0.25s;
+	font-family: Equestria;
 }
 body.lightsOut{
 	background-color:#13191c;
@@ -35,7 +57,7 @@ body.lightsOut{
 p{
 	color:#fff;
 	display:inline;
-	font:1em MontserratRegular, sans-serif;
+	font:1em Equestria, sans-serif;
 	margin:0px;
 	text-shadow:1px 1px 2px #000;
 }
@@ -54,7 +76,7 @@ a{
 }
 h1{
 	color:#FFF;
-	font:2.2em TitilliumTextExtraBold, sans-serif;
+	font:2.2em Equestria-Bold, sans-serif;
 	margin:0px;
 	padding-top:10px;
 	text-align:center;
@@ -79,7 +101,7 @@ button, select{
 	box-shadow:0px 4px 8px #222;
 	color:#FFF;
 	display:inline;
-	font:1em TitilliumTextBold, sans-serif;
+	font:1em Equestria-Bold, sans-serif;
 	margin:2px 0px 2px 0px;
 	padding:2px;
 	text-align:center;
@@ -122,7 +144,7 @@ video::cue{
 	1px 1px 2px #000;
 	background:transparent;
 	opacity: 0.5;
-	font:1.4em MontserratRegular, sans-serif bold;
+	font:1.4em Equestria, sans-serif bold;
 }
 @media only screen and (min-width: 720px){
 	br.mobileBreak{
