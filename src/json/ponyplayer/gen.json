@@ -1,0 +1,28 @@
+{
+    "Gen":[
+        {
+            "name":"Gen5",
+            "url": "./db.json"
+        },
+        {
+            "name":"Gen4 FIM",
+            "url": "./fim.json"
+        },
+        {
+            "name":"Gen4 EQG",
+            "url": "./eqg.json"
+        },
+        {
+            "name":"Gen4 PL",
+            "url": "./pl.json"
+        },
+        {
+            "name":"Gen3",
+            "url": "./g3.json"
+        },
+        {
+            "name":"Gen1",
+            "url": "./g1.json"                
+        }
+    ]
+}
