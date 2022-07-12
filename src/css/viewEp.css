@@ -18,23 +18,23 @@
 }
 @font-face {
 	font-family: 'Equestria';
-	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria.otf') format('otf');
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria.otf') format('opentype');
 	font-display: block;
 }
 @font-face {
 	font-family: 'Equestria-Bold';
-	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Bold.otf') format('otf');
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Bold.otf') format('opentype');
 	font-display: block;
 }
 @font-face {
 	font-family: 'Equestria-Bold-Italic';
-	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Bold-Italic.otf') format('otf');
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Bold-Italic.otf') format('opentype');
 
 	font-display: block;
 }
 @font-face {
 	font-family: 'Equestria-Italic';
-	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Italic.otf') format('otf');
+	src:	url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/Equestria-Italic.otf') format('opentype');
 	font-display: block;
 }
 html{
