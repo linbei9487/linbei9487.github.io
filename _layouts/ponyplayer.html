@@ -48,7 +48,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:image" content="https://static.wikia.nocookie.net/mlp/images/b/b3/Mane_six_walking_on_a_rainbow_S7E2.png/revision/latest/scale-to-width-down/1000"/>
     {% if page.includehead %}
-        {% include page.includehead %}
+        {% include {{page.includehead}} %}
     {% endif %}
     <!-- <link rel="stylesheet" href="/src/css/btn.css"  type="text/css">
     <link rel="stylesheet" href="/src/css/countdown.css"  type="text/css"> -->
@@ -107,7 +107,7 @@ setInterval(function(){ countdown(); },1000);
       <footer class="site-footer">
         {% include disclaimer.html %}
         {% if page.includefoot %}
-        {% include page.includefoot %}
+        {% include {{page.includefoot}} %}
         {% endif %}
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
