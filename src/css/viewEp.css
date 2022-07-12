@@ -50,6 +50,7 @@ body{
 	padding:0px;
 	transition-duration:0.25s;
 	font-family: Equestria;
+	letter-spacing: 3px;
 }
 body.lightsOut{
 	background-color:#13191c;
