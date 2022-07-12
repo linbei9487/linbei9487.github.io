@@ -21,7 +21,7 @@
 
 @font-face {
 	font-family: CelestiaRedux;
-	src: url('http://www.mattyhex.net/CMR/media/fonts/CelestiaMediumRedux1.55.ttf');
+	src: url('https://raw.githubusercontent.com/linbei9487/linbei9487.github.io/main/src/font/CelestiaMediumRedux1.55.ttf') format('truetype');
 }
 
 .main-content {
